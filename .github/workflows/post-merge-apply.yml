@@ -9,7 +9,7 @@ jobs:
   apply:
     name: Apply YAML to API
     runs-on: ubuntu-latest
-
+    environment: prod   
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
