@@ -1,0 +1,116 @@
+hero:
+  title: "ग्रामपंचायतीत आपले स्वागत आहे"
+  subtitle: "स्वच्छ आणि समृद्ध गाव"
+  button1:
+    name: "अधिक माहिती"
+    link: "/about"
+  button2:
+    name: "संपर्क"
+    link: "/contacts"
+  images:
+    - "/home/v1.jpeg"
+    - "/home/v2.jpeg"
+
+sections:
+  - title: "पाणीपुरवठा"
+    description: "स्वच्छ व सुरक्षित पिण्याचे पाणी"
+
+welcome_video:
+  link: "https://www.youtube.com/embed/c4MLUkZNGnY?si=6oNuU_cOF-SNcky5"
+pachayat_sandesh:
+  - "शुक्रवारी पाणीपुरवठा देखभाल"
+  - "सायं. ५ वाजता ग्रामसभा बैठक"
+  - "नवीन शासकीय योजना जाहीर"
+
+mahiti:
+  - title: "लोकसंख्या"
+    icon: "Users"
+    value: 15000
+
+  - title: "घरांची संख्या"
+    icon: "Home"
+    value: 240
+
+  - title: "साक्षरता दर"
+    icon: "GraduationCap"
+    value: 80
+    text: "%"
+
+  - title: "प्रभाग"
+    icon: "Map"
+    value: 7
+
+  - title: "एकूण क्षेत्रफळ"
+    icon: "MapPinned"
+    value: 240
+    text: " चौ.कि.मी."
+
+  - title: "पाण्याचे स्त्रोत"
+    icon: "GlassWater"
+    value: 2
+    text: "नदी | कालवा"
+
+baatmi:
+  defaultTab: latest
+  tabs:
+    - id: latest
+      label: "ताज्या बातम्या"
+      items:
+        - title: "गावातील रस्ता दुरुस्ती पूर्ण"
+          date: "23 डिसेंबर 2025"
+
+        - title: "पाणीपुरवठा वेळापत्रकात बदल"
+          date: "22 डिसेंबर 2025"
+
+    - id: alerts
+      label: "सूचना"
+      items:
+        - title: "उद्या सकाळी १० ते २ वाजेपर्यंत वीजपुरवठा बंद"
+          date: "24 डिसेंबर 2025"
+
+    - id: government
+      label: "शासकीय आदेश"
+      items:
+        - title: "नवीन शिधापत्रिका मार्गदर्शक सूचना"
+          date: "परिपत्रक क्र. 128"
+weather:
+  village_name: "माझे गाव"
+  updated_at: "आज सकाळी 8:30"
+  condition:
+    text: "आंशिक ढगाळ"
+    icon: "cloud-sun"
+  temperature:
+    current: 29
+    feels_like: 31
+  humidity: 62
+  wind:
+    speed: 12
+    unit: "km/h"
+  rain_probability: 20
+leadership:
+  title: "आपले नेतृत्व"
+  members:
+    - name: "श्री. देवेंद्र फडणवीस"
+      role: "माननीय मुख्यमंत्री"
+      photo: "/leaders/fadnavis.jpg"
+
+    - name: "श्री. एकनाथ शिंदे"
+      role: "माननीय उपमुख्यमंत्री"
+      photo: "/leaders/shinde.jpg"
+
+    - name: "श्री. अजित पवार"
+      role: "माननीय उपमुख्यमंत्री"
+      photo: "/leaders/pawar.jpg"
+
+    - name: "श्री. जयकुमार गोरे"
+      role: "माननीय मंत्री, ग्रामविकास व पंचायत राज"
+      photo: "/leaders/gore.jpg"
+
+    - name: "श्री. योगेश कदम"
+      role: "माननीय राज्यमंत्री, ग्रामविकास व पंचायत राज"
+      photo: "/leaders/kadam.jpg"
+
+    - name: "श्री. एकनाथ दवाळे"
+      role: "प्रधान सचिव, ग्रामविकास व पंचायत राज"
+      photo: "/leaders/dawale.jpg"
+  

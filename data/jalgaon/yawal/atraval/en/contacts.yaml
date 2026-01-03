@@ -1,0 +1,53 @@
+contact_collaboration:
+  title: "Contact & Collaboration"
+
+  office:
+    name: "Gram Panchayat Office"
+    address: "Village Name, Taluka, District – 412XXX"
+    phone: "+91 98765 43210"
+    email: "grampanchayat@example.com"
+    working_hours: "Mon–Fri | 10 AM to 5 PM"
+
+  map:
+    embed_url: "https://www.google.com/maps/embed?pb=YOUR_GOOGLE_MAP_EMBED"
+
+  feedback:
+    title: "Feedback / Suggestions"
+    fields:
+      - key: "name"
+        label: "Name"
+        type: "text"
+      - key: "mobile"
+        label: "Mobile Number"
+        type: "tel"
+      - key: "message"
+        label: "Your Feedback"
+        type: "textarea"
+    submit_label: "Submit Feedback"
+
+  partners:
+    title: "Partner Organizations"
+
+    ngos:
+      - name: "Green Bharat Foundation"
+        area: "Environment & Tree Plantation"
+      - name: "Shikshan Vikas NGO"
+        area: "Education & Youth Development"
+
+    csr:
+      - name: "ABC Industries"
+        area: "CSR – Water & Sanitation"
+      - name: "XYZ Pvt Ltd"
+        area: "CSR – Digital Education"
+
+    government:
+      - name: "Zilla Parishad"
+        area: "Rural Development"
+      - name: "Agriculture Department"
+        area: "Farmer Schemes"
+
+  volunteer:
+    title: "Become a Volunteer"
+    description: "Contribute towards village development."
+    button_text: "Register as a Volunteer"
+    link: "/volunteer"

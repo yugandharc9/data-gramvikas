@@ -1,0 +1,178 @@
+adopt_tree:
+  title: "Adopt a Tree"
+  subtitle: "Plant Today, Protect Tomorrow"
+  description: >
+    Adopt a tree and become a guardian of nature.
+    Your small step today helps build a greener,
+    healthier future for generations to come.
+
+  cta:
+    primary:
+      label: "Adopt Now"
+      link: "/adopt-tree"
+    secondary:
+      label: "Learn More"
+      link: "/about-tree-program"
+
+  images:
+    - "/images/tree1.jpg"
+    - "/images/tree2.jpg"
+    - "/images/tree3.jpg"
+
+green_scoreboard:
+  title: "Green Scoreboard"
+  subtitle: "Tree Plantation Progress Report"
+
+  stats:
+    planted:
+      label: "Trees Planted"
+      value: 1250
+
+    target:
+      label: "Target"
+      value: 5000
+
+    volunteers:
+      label: "Volunteers"
+      value: 245
+
+
+yojanas:
+  title: "Village Development Schemes"
+  items:
+    - name: "Tree Plantation Drive"
+      summary: "A step towards a greener village"
+      detail: "Large-scale tree plantation to protect the environment and enhance biodiversity."
+      image: "/images/yojana/vruksharopan.jpg"
+      adoptable: true
+
+    - name: "Waste Segregation Program"
+      summary: "Cleanliness and sustainability"
+      detail: "Segregation of wet and dry waste for proper recycling and disposal."
+      image: "/images/yojana/kachara.jpg"
+      adoptable: false
+
+    - name: "Rainwater Harvesting Project"
+      summary: "Water security for the future"
+      detail: "Rainwater harvesting to recharge groundwater levels."
+      image: "/images/yojana/rainwater.jpg"
+      adoptable: false
+
+    - name: "Solar Energy Initiative"
+      summary: "Clean and affordable energy"
+      detail: "Utilization of solar power to reduce electricity costs."
+      image: "/images/yojana/solar.jpg"
+      adoptable: false
+
+    - name: "Water Conservation Scheme"
+      summary: "Sustainable water management"
+      detail: "Water conservation through check dams and reservoirs."
+      image: "/images/yojana/water.jpg"
+      adoptable: false
+
+    - name: "Adopt a Tree"
+      summary: "Your tree, your responsibility"
+      detail: "Citizens can adopt a tree and take responsibility for its growth."
+      image: "/images/yojana/adopt-tree.jpg"
+      adoptable: true
+
+
+krushi_upjivika:
+  title: "Agriculture & Livelihood"
+  sections:
+    - key: "krushi"
+      title: "Agriculture"
+      description: "Improving farm productivity through sustainable farming practices."
+      image: "/images/krushi.jpg"
+      points:
+        - "Organic and natural farming"
+        - "Drip and sprinkler irrigation"
+        - "Crop protection guidance"
+        - "Soil health improvement"
+
+    - key: "upjivika"
+      title: "Livelihood"
+      description: "Promoting employment and self-sufficiency."
+      image: "/images/upjivika.jpg"
+      points:
+        - "Self-help groups"
+        - "Skill development training"
+        - "Micro and cottage industries"
+        - "Self-employment initiatives"
+
+
+pik_salla:
+  title: "Crop Advisory & Weather Updates"
+
+  weather:
+    today:
+      condition: "Light Rain"
+      temperature: "28°C"
+      humidity: "78%"
+      note: "Possibility of rain in the afternoon"
+
+  crop_advisory:
+    crop: "Soybean"
+    stage: "Flowering stage"
+    advice:
+      - "Avoid spraying pesticides"
+      - "Ensure proper drainage"
+      - "Monitor pest infestation"
+
+  alerts:
+    - "Heavy rainfall expected in the next 24 hours"
+    - "Possibility of pest outbreak"
+
+
+bajarbhav:
+  title: "Market Prices & Crop Rates"
+
+  summary:
+    - label: "Today's Average Price"
+      value: "₹5,200 / quintal"
+      trend: "up"
+
+    - label: "Change from Yesterday"
+      value: "+₹150"
+      trend: "up"
+
+    - label: "Total Arrival"
+      value: "12,500 quintals"
+      trend: "neutral"
+
+  prices:
+    - crop: "Soybean"
+      market: "Pune"
+      today: 5200
+      yesterday: 5050
+      unit: "₹/quintal"
+
+    - crop: "Cotton"
+      market: "Baramati"
+      today: 6800
+      yesterday: 6900
+      unit: "₹/quintal"
+
+    - crop: "Jowar"
+      market: "Solapur"
+      today: 3100
+      yesterday: 3000
+      unit: "₹/quintal"
+
+
+shetkari_yashogatha:
+  title: "Farmer Success Stories"
+  description: "Inspiring stories of progressive farmers and entrepreneurs."
+
+  items:
+    - name: "Sanjay Patil"
+      role: "Progressive Farmer"
+      village: "Ramnagar"
+      photo: "/images/yashogatha/sanjay-patil.jpg"
+      achievement: >
+        Increased crop yield threefold through drip irrigation
+        and organic farming practices.
+      highlights:
+        - "Drip irrigation"
+        - "Organic farming"
+        - "State-level recognition"

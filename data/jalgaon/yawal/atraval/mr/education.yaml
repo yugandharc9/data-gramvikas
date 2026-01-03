@@ -1,0 +1,207 @@
+mahinyacha_vidyarthi:
+  title: "महिन्याचा विद्यार्थी"
+  description: "शैक्षणिक, क्रीडा किंवा सामाजिक क्षेत्रात उत्कृष्ट कामगिरी करणारे विद्यार्थी."
+
+  items:
+    - name: "राहुल पाटील"
+      photo: "/images/students/rahul_patil.jpg"
+      achievement: "जिल्हास्तरीय विज्ञान परीक्षेत प्रथम क्रमांक"
+      institution: "जिल्हा परिषद शाळा"
+      month: "जानेवारी 2025"
+    - name: "स्नेहा जाधव"
+      photo: "/images/students/sneha_jadhav.jpg"
+      achievement: "राज्यस्तरीय कबड्डी स्पर्धेत सहभाग"
+      institution: "गाव कनिष्ठ महाविद्यालय"
+      month: "फेब्रुवारी 2025"
+
+
+student_programs:
+  title: "विद्यार्थी उपक्रम"
+
+  tabs:
+    - key: "shishyavrutti"
+      label: "शिष्यवृत्ती"
+      type: "scholarship"
+
+    - key: "krida"
+      label: "क्रीडा"
+      type: "sports"
+
+    - key: "nss_upakram"
+      label: "NSS उपक्रम"
+
+  shishyavrutti:
+    items:
+      - name: "पोस्ट मॅट्रिक शिष्यवृत्ती"
+        eligibility: "SC / ST / OBC"
+        benefit: "₹25,000"
+        authority: "महाराष्ट्र शासन"
+        photos:
+          - "/images/students/scholarship/postmatric.jpg"
+
+  krida:
+    items:
+      - name: "कबड्डी संघ"
+        level: "जिल्हा"
+        achievement: "उपविजेता"
+        year: "2024"
+        photos:
+          - "/images/students/sports/kabaddi_1.jpg"
+
+  nss_upakram:
+    items:
+      - name: "गाव स्वच्छता मोहीम"
+        year: "2024"
+        description: "गाव स्वच्छतेसाठी राबवलेली मोहीम"
+        photos:
+          - "/images/students/nss/cleanliness_1.jpg"
+
+
+shala_mahiti_ani_vidyarthi_kamgiri:
+  title: "शाळा माहिती व विद्यार्थी कामगिरी"
+  description: "गावातील शाळांची माहिती व विद्यार्थ्यांची कामगिरी."
+
+  shala_mahiti:
+    title: "शाळा माहिती"
+    items:
+      - name: "जिल्हा परिषद प्राथमिक शाळा"
+        type: "प्राथमिक शाळा"
+        established: "1956"
+        students: 230
+        teachers: 8
+        description: "गावातील शासकीय प्राथमिक शाळा."
+        photos:
+          - "/images/schools/zp_primary_1.jpg"
+          - "/images/schools/zp_primary_2.jpg"
+
+      - name: "गाव माध्यमिक शाळा"
+        type: "माध्यमिक शाळा"
+        established: "1982"
+        students: 180
+        teachers: 12
+        description: "माध्यमिक शिक्षण देणारी शाळा."
+        photos:
+          - "/images/schools/highschool_1.jpg"
+
+  vidyarthi_kamgiri:
+    title: "विद्यार्थी कामगिरी"
+    items:
+      - student_name: "राहुल पाटील"
+        achievement: "जिल्हास्तरीय विज्ञान परीक्षेत प्रथम क्रमांक"
+        year: "2024"
+        institution: "गाव माध्यमिक शाळा"
+        photos:
+          - "/images/students/achievements/rahul_1.jpg"
+
+      - student_name: "स्नेहा जाधव"
+        achievement: "राज्यस्तरीय कबड्डी स्पर्धेत सहभाग"
+        year: "2023"
+        institution: "गाव कनिष्ठ महाविद्यालय"
+        photos:
+          - "/images/students/achievements/sneha_1.jpg"
+          - "/images/students/achievements/sneha_2.jpg"
+
+
+career_margadarshan:
+  title: "करिअर मार्गदर्शन"
+  description: "विद्यार्थी व युवकांसाठी करिअर मार्गदर्शन व संधी."
+
+  items:
+    - title: "करिअर मार्गदर्शन शिबीर"
+      target_group: "इयत्ता १० वी व १२ वी"
+      conducted_by: "शिक्षण विभाग"
+      description: "करिअर पर्याय व मार्गदर्शन."
+      date: "मार्च २०२५"
+      photos:
+        - "/images/career/seminar_1.jpg"
+        - "/images/career/seminar_2.jpg"
+
+    - title: "स्पर्धा परीक्षा मार्गदर्शन"
+      target_group: "पदवीधर"
+      conducted_by: "करिअर मार्गदर्शक"
+      description: "UPSC, MPSC, बँकिंग परीक्षांसाठी मार्गदर्शन."
+      date: "फेब्रुवारी २०२५"
+      photos:
+        - "/images/career/exam_guidance_1.jpg"
+
+
+youth_speaks:
+  title: "युवकांचे विचार"
+  subtitle: "युवकांचे अनुभव, कल्पना आणि प्रेरणा"
+
+  tabs:
+    - key: blogs
+      label: "ब्लॉग"
+      items:
+        - title: "माझे गाव, माझा अभिमान"
+          author: "रोहन पाटील"
+          summary: "गाव आत्मनिर्भर कसे होऊ शकते यावर लेख."
+          image: "/images/blogs/village.jpg"
+          link: "/blogs/my-village"
+
+        - title: "ग्रामीण भारतातील डिजिटल बदल"
+          author: "स्नेहा जाधव"
+          summary: "डिजिटल तंत्रज्ञानामुळे ग्रामीण विकास."
+          image: "/images/blogs/digital.jpg"
+          link: "/blogs/digital-india"
+
+    - key: videos
+      label: "व्हिडिओ"
+      items:
+        - title: "पाणी संवर्धनावर चर्चा"
+          speaker: "अमित काळे"
+          thumbnail: "/images/videos/water.jpg"
+          youtubeId: "dQw4w9WgXcQ"
+
+        - title: "महिला सक्षमीकरण भाषण"
+          speaker: "पूजा पाटील"
+          thumbnail: "/images/videos/women.jpg"
+          youtubeId: "9bZkp7q19f0"
+
+    - key: reels
+      label: "रील्स"
+      items:
+        - title: "स्वच्छ गाव मोहीम"
+          thumbnail: "/images/reels/clean.jpg"
+          link: "https://instagram.com/reel/xyz"
+
+        - title: "वृक्षारोपण"
+          thumbnail: "/images/reels/tree.jpg"
+          link: "https://instagram.com/reel/abc"
+
+
+sthanik_yashogatha:
+  title: "स्थानिक यशोगाथा"
+  description: "गावातील प्रेरणादायी व्यक्तींच्या यशकथा"
+
+  items:
+    - name: "संजय पाटील"
+      role: "प्रगतशील शेतकरी"
+      village: "रामनगर"
+      photo: "/images/yashogatha/sanjay-patil.jpg"
+      achievement: >
+        ठिबक सिंचन आणि सेंद्रिय शेतीद्वारे उत्पादनात मोठी वाढ.
+      highlights:
+        - "ठिबक सिंचन"
+        - "सेंद्रिय शेती"
+        - "राज्यस्तरीय सन्मान"
+
+    - name: "कविता देशमुख"
+      role: "स्थानिक उद्योजक"
+      village: "शिवपूर"
+      photo: "/images/yashogatha/kavita-deshmukh.jpg"
+      achievement: >
+        महिला बचत गटाच्या माध्यमातून उद्योग उभारणी.
+      highlights:
+        - "महिला बचत गट"
+        - "स्वरोजगार"
+
+    - name: "रमेश शिंदे"
+      role: "दुग्ध व्यावसायिक"
+      village: "नांदगाव"
+      photo: "/images/yashogatha/ramesh-shinde.jpg"
+      achievement: >
+        आधुनिक गोठा आणि सुधारित पशुपालनामुळे उत्पादनवाढ.
+      highlights:
+        - "दुग्ध व्यवसाय"
+        - "आधुनिक तंत्रज्ञान"

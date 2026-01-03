@@ -1,0 +1,99 @@
+dhey:
+  title: "Our Mission"
+  description: "Building a strong, clean, and united village through collective effort."
+  points:
+    - "Promote education and awareness"
+    - "Support farmers and local businesses"
+    - "Ensure cleanliness and hygiene"
+    - "Encourage community participation"
+    - "Collaboration"
+mulya:
+  - name: Transparency 
+    img: "/maha_logo.svg"
+  - name: Accountability
+    img: "/maha_logo.svg"
+  - name: Participation
+    img: "/maha_logo.svg"
+  - name: Equality
+    img: "/maha_logo.svg"
+  - name: Integrity
+    img: "/maha_logo.svg"
+  - name: Sustainability
+    img: "/maha_logo.svg"
+  - name: "Social Justice"
+    img: "/maha_logo.svg"
+  - name: "Transparency in Governance"
+    img: "/maha_logo.svg"
+  - name: "Community Welfare"
+    img: "/maha_logo.svg"
+mulya_title: "Our Values"
+itihas: 
+    title: "History of Our Village"
+    description: "A journey through the important milestones that shaped our village."
+    timeline:
+      - year: "1850"
+        title: "Village Established"
+        description: "The village was founded by early settlers."
+
+      - year: "1947"
+        title: "Independence Era"
+        description: "Major reforms and land redistribution took place."
+
+      - year: "1990"
+        title: "Infrastructure Growth"
+        description: "Schools, roads, and water systems were developed."
+
+      - year: "2020"
+        title: "Modern Development"
+        description: "Digital services and smart village initiatives started."
+organization:
+  - id: sarpanch
+    name: Ramesh Patil
+    designation: Sarpanch
+    description: Head of the Gram Panchayat.
+    contact:
+      phone: "+91 9876543210"
+    photo: "/org/sarpanch.jpg"
+    parentId: null
+
+  - id: secretary
+    name: Sunita Deshmukh
+    designation: Secretary
+    description: Handles records and administration.
+    photo: "/org/secretary.jpg"
+    contact:
+      email: secretary@gp.gov.in
+    parentId: sarpanch
+
+  - id: clerk1
+    name: Mahesh Pawar
+    designation: Clerk
+    description: Office and citizen service support.
+    photo: "/org/clerk1.jpg"
+    parentId: secretary
+
+  - id: clerk2
+    name: Anita Kulkarni
+    designation: Clerk
+    photo: "/org/clerk2.jpg"
+    description: Documentation and data entry.
+    parentId: secretary
+
+important_contacts:
+  - id: police
+    name: Police Station
+    designation: Station Officer
+    department: Law & Order
+    phone: "100"
+
+  - id: hospital
+    name: Primary Health Center
+    designation: Medical Officer
+    department: Health
+    phone: "108"
+
+  - id: electricity
+    name: MSEDCL Office
+    designation: Complaint Desk
+    department: Electricity
+    phone: "1912"

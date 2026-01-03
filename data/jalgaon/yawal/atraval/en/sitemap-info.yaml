@@ -1,0 +1,50 @@
+title: "Site Map"
+
+sections:
+  - name: "Home"
+    path: "/"
+
+  - name: "About Village"
+    path: "/about"
+
+  - name: "Announcements"
+    path: "/announcements"
+
+  - name: "Contacts"
+    path: "/contacts"
+
+  - name: "Culture"
+    path: "/culture"
+
+  - name: "Dashboard"
+    path: "/dashboard"
+
+  - name: "Education"
+    path: "/education"
+
+  - name: "Employment"
+    path: "/employment"
+
+  - name: "Environment"
+    path: "/environment"
+
+  - name: "Finance"
+    path: "/finance"
+
+  - name: "Forms"
+    path: "/forms"
+
+  - name: "Gallery"
+    path: "/gallery"
+
+  - name: "Grievance"
+    path: "/grievance"
+
+  - name: "Infrastructure & Facilities"
+    path: "/infra-facilities"
+
+  - name: "Projects"
+    path: "/projects"
+
+  - name: "Schemes"
+    path: "/schemes"

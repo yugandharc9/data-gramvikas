@@ -1,0 +1,78 @@
+projects_title: "ग्रामविकास प्रकल्प"
+before_after_title: "गाव विकास – पूर्वी व नंतर"
+impact_title: "परिणाम" 
+projects:
+  defaultTab: ongoing
+  tabs:
+    - id: ongoing
+      label: "सध्या सुरू"
+      items:
+        - name: "गाव रस्ता दुरुस्ती"
+          image: "/images/road.jpg"
+          summary: "मुख्य रस्त्याचे दुरुस्ती काम सुरू आहे"
+          expense: "₹12,50,000"
+
+    - id: proposed
+      label: "प्रस्तावित"
+      items:
+        - name: "सामुदायिक सभागृह"
+          image: "/images/hall.jpg"
+          summary: "नवीन बहुउद्देशीय सभागृह"
+          expense: "₹25,00,000"
+
+    - id: completed
+      label: "पूर्ण झालेले"
+      items:
+        - name: "रस्त्यावरील दिवे"
+          image: "/images/lights.jpg"
+          summary: "एलईडी स्ट्रीट लाईट बसविण्यात आले"
+          expense: "₹4,80,000"
+
+before_after_projects:
+  - id: road_repair
+    title: "गाव मुख्य रस्ता दुरुस्ती"
+    description: "रस्त्याची स्थिती दुरुस्तीपूर्वी आणि नंतर"
+    before_image: "/images/road_before.jpg"
+    after_image: "/images/road_after.jpg"
+
+  - id: water_tank
+    title: "पाणी टाकी नूतनीकरण"
+    description: "जुनी टाकी बदलून नवीन टाकी बसविण्यात आली"
+    before_image: "/images/tank_before.jpg"
+    after_image: "/images/tank_after.jpg"
+
+  - id: drainage
+    title: "निचरा प्रणाली सुधारणा"
+    description: "नवीन निचरा व्यवस्थेमुळे पाणी साचण्याची समस्या दूर"
+    before_image: "/images/drain_before.jpg"
+    after_image: "/images/drain_after.jpg"
+
+
+impacts:
+  - title: "एकूण उत्पन्न"
+    value: "₹1,250"
+    trend:
+      direction: "up"
+      percent: "+12.5%"
+    description: "यावर्षी उत्पन्नात वाढ"
+
+  - title: "नवीन घरे"
+    value: "320"
+    trend:
+      direction: "up"
+      percent: "+8%"
+    description: "गावात नव्याने बांधलेली घरे"
+
+  - title: "पाण्याचा वापर"
+    value: "↓ 18%"
+    trend:
+      direction: "down"
+      percent: "-18%"
+    description: "पाण्याच्या वापरात घट"
+
+  - title: "रोजगार दर"
+    value: "92%"
+    trend:
+      direction: "up"
+      percent: "+6%"
+    description: "स्थानिक रोजगारात वाढ"

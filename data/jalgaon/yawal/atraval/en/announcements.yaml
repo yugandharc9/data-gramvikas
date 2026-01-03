@@ -1,0 +1,84 @@
+deadlines_title: "Important Scheme Deadlines"
+deadlines_list_title: "List Scheme Deadlines"
+upcoming_events_title: "Upcoming Events & Meetings"
+circulars_title: "Circulars & Notices"
+forms_title: "Forms Download"
+select_message: "Select a highlighted date to view details."
+notice_tab_titles:
+  - "Circulars"
+  - "Notices"
+  - "GRs"
+_calendar_lang: en-IN
+deadlines:
+  - title: "Scholarship Application Last Date"
+    date: "2025-02-15"
+    description: "Last date to apply for Post-Matric Scholarship"
+
+  - title: "Housing Scheme Registration"
+    date: "2025-02-20"
+    description: "Final date to submit housing scheme application"
+
+  - title: "Farmer Subsidy Form"
+    date: "2025-02-28"
+    description: "Deadline for crop subsidy application"
+events:
+  - title: "Gram Sabha Meeting"
+    date: "2025-02-18"
+    time: "11:00 AM"
+    location: "Village Community Hall"
+    description: "Discussion on village development plans and budget allocation."
+
+  - title: "Health Camp"
+    date: "2025-02-22"
+    time: "09:00 AM"
+    location: "Primary Health Center"
+    description: "Free health check-up and medicine distribution."
+
+  - title: "Farmers Awareness Program"
+    date: "2025-02-27"
+    time: "10:30 AM"
+    location: "Panchayat Office"
+    description: "Training on modern farming techniques and government schemes."
+circulars:
+  - title: "Property Tax Payment Circular"
+    department: "Revenue Department"
+    date: "2025-02-10"
+    description: "All citizens must clear property tax before 31st March."
+    file: "/docs/property-tax.pdf"
+
+notices:
+  - title: "Water Supply Interruption"
+    department: "Water Department"
+    date: "2025-02-18"
+    description: "Water supply will be interrupted for maintenance."
+    file: "/docs/water-notice.pdf"
+
+grs:
+  - title: "New Education Policy GR"
+    department: "Education Department"
+    date: "2025-01-20"
+    description: "Government Resolution on education reforms."
+    file: "/docs/education-gr.pdf"
+
+downloads:
+  forms:
+    - title: "Income Certificate Application"
+      description: "Form required to apply for income certificate."
+      file: "/docs/forms/income-certificate.pdf"
+
+    - title: "Caste Certificate Application"
+      description: "Form for caste verification and issuance."
+      file: "/docs/forms/caste-certificate.pdf"
+
+  documents:
+    - title: "Village Development Plan 2024"
+      description: "Official development roadmap document."
+      file: "/docs/documents/village-plan.pdf"
+
+    - title: "Water Supply Guidelines"
+      description: "Guidelines for water usage and billing."
+      file: "/docs/documents/water-guidelines.pdf"
+
+  forms_tab_titles:
+      - "Forms"
+      - "Documents"

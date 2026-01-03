@@ -1,0 +1,54 @@
+about:
+  title: "Gram Panchayat"
+  description: "Serving the village with transparency, development, and trust."
+
+quick_links:
+  title: "Quick Links"
+  links:
+    - label: "About Village"
+      path: "/about"
+    - label: "Dashboard"
+      path: "/dashboard"
+    - label: "Announcements"
+      path: "/announcements"
+    - label: "Schemes"
+      path: "/schemes"
+    - label: "Projects"
+      path: "/projects"
+    - label: "Grievance Redressal"
+      path: "/grievance"
+
+services:
+  title: "Services & Information"
+  links:
+    - label: "Education"
+      path: "/education"
+    - label: "Employment"
+      path: "/employment"
+    - label: "Environment"
+      path: "/environment"
+    - label: "Infrastructure"
+      path: "/infra-facilities"
+    - label: "Forms"
+      path: "/forms"
+    - label: "Gallery"
+      path: "/gallery"
+
+contact:
+  title: "Contact"
+  address: |
+    Gram Panchayat Office,
+    Village Name, Taluka Name,
+    District Name – PIN
+  phone: "+91 9XXXXXXXXX"
+  email: "grampanchayat@email.com"
+
+social:
+  rdd:
+    title: "RDD Department"
+    facebook: "https://www.facebook.com/maharashtra.gramvikasvibhag"
+    instagram: "https://www.instagram.com/gramvikasvibhag.maharashtra/?igsh=bjNoZDY5d3Z3NHly#"
+  gram_panchayat:
+    title: "Gram Panchayat"
+    facebook: "https://facebook.com/grampanchayat"
+    instagram: "https://instagram.com/grampanchayat"

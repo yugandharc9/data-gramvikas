@@ -1,0 +1,271 @@
+tab_peek_title: "Crop prices"
+tab_fertilizer_title: "Fertilizer Information"
+tab_nokri_title: "Local Jobs"
+tab_nivida_title: "Tenders"
+tab_karar_title: "Contracts"
+employment_and_skills:
+  title: "Employment & Skill Development"
+  description: "Local employment opportunities, tenders, and contracts available in the village."
+
+  stanik_nokri:
+    title: "Local Jobs"
+    items:
+      - title: "Water Supply Operator"
+        department: "Gram Panchayat"
+        qualification: "10th Pass"
+        type: "Temporary"
+        last_date: "2025-02-20"
+        contact: "Village Office"
+
+      - title: "Computer Operator"
+        department: "CSC Center"
+        qualification: "Basic Computer Knowledge"
+        type: "Contract"
+        last_date: "2025-03-05"
+
+  nivida:
+    title: "Tenders"
+    items:
+      - title: "Road Repair Work"
+        department: "Public Works Department"
+        estimate: "₹12,00,000"
+        last_date: "2025-02-28"
+
+      - title: "Water Tank Cleaning"
+        department: "Gram Panchayat"
+        estimate: "₹2,50,000"
+        last_date: "2025-02-22"
+
+  karar:
+    title: "Contracts"
+    items:
+      - title: "Sanitation Services Contract"
+        duration: "1 Year"
+        department: "Village Council"
+        value: "₹5,00,000"
+        contact: "Gram Sevak Office"
+
+      - title: "Street Light Maintenance"
+        duration: "2 Years"
+        department: "Electricity Committee"
+        value: "₹8,00,000"
+
+
+swayam_sahaygat_msme:
+  swayam_sahaygat:
+    title: "Self-Help Group (SHG)"
+    description: "Skill development and digital awareness programs for village youth and citizens."
+    items:
+      - name: "Savitribai Mahila Bachat Gat"
+        type: "Women SHG"
+        members: 15
+        formed_year: 2016
+        activities:
+          - "Papad Making"
+          - "Savings & Credit"
+        contact: "Anganwadi Office"
+        photos:
+          - "/images/shg/savitribai_1.jpg"
+
+  msme_upkram:
+    items:
+      - name: "Patil Dairy Products"
+        category: "Food Processing"
+        owner: "Shri Ramesh Patil"
+        employees: 6
+        description: "Local dairy products supplied nearby."
+        registered: "Yes"
+        photos:
+          - "/images/msme/dairy_1.jpg"
+          - "/images/msme/dairy_2.jpg"
+
+
+training_and_digital_literacy:
+  title: "Youth Training & Digital Literacy"
+  description: "Skill development and digital awareness programs for village youth and citizens."
+
+  yuvak_prashikshan:
+    title: "Youth Training"
+    items:
+      - name: "Basic Computer Training"
+        duration: "3 Months"
+        eligibility: "10th Pass"
+        conducted_by: "CSC Center"
+        description: "Training on computer basics, MS Office, and internet usage."
+        certificate: "Yes"
+
+      - name: "Electrician Skill Training"
+        duration: "6 Months"
+        eligibility: "8th Pass"
+        conducted_by: "ITI Collaboration"
+        description: "Hands-on electrical wiring and maintenance training."
+        certificate: "Yes"
+
+  digital_saksharta:
+    title: "Digital Literacy Mission"
+    items:
+      - name: "Online Government Services Awareness"
+        target_group: "All Villagers"
+        focus:
+          - "Aadhaar Services"
+          - "PAN Card"
+          - "Online Forms"
+        conducted_by: "Gram Panchayat"
+
+      - name: "Digital Payments Training"
+        target_group: "Farmers & SHGs"
+        focus:
+          - "UPI Usage"
+          - "Banking Apps"
+          - "Fraud Awareness"
+        conducted_by: "Bank Mitra"
+
+
+shetkari_sahay_kendra:
+  title: "Farmer Support Center"
+  description: "Crop prices, fertilizer information, and important market updates for farmers."
+
+  pik_bhav:
+    title: "Crop Prices"
+    items:
+      - crop: "Soybean"
+        market: "Pune APMC"
+        price: "₹4,800 / quintal"
+        date: "2025-02-10"
+
+      - crop: "Cotton"
+        market: "Baramati APMC"
+        price: "₹6,900 / quintal"
+        date: "2025-02-10"
+
+  khat_mahiti:
+    title: "Fertilizer Information"
+    items:
+      - name: "Urea"
+        use: "Nitrogen supply"
+        dosage: "45 kg / acre"
+        availability: "Available"
+
+      - name: "DAP"
+        use: "Root development"
+        dosage: "50 kg / acre"
+        availability: "Limited Stock"
+
+  bajar_updates:
+    title: "Market Updates"
+    items:
+      - message: "Soybean prices increased by ₹200 today."
+        date: "2025-02-10"
+        priority: "high"
+
+      - message: "DAP fertilizer stock arriving tomorrow at APMC."
+        date: "2025-02-09"
+        priority: "medium"
+
+
+gaav_talent_directory:
+  title: "Village Talent Directory"
+  description: "List of skilled individuals in the village available for work and services."
+
+  items:
+    - name: "Shri Ramesh Patil"
+      skill: "Mason"
+      experience: "15 Years"
+      contact: "+91 9876543210"
+      availability: "Available"
+      area: "Construction & Repair"
+
+    - name: "Shri Suresh Jadhav"
+      skill: "Electrician"
+      experience: "8 Years"
+      contact: "+91 9123456789"
+      availability: "On Call"
+      area: "Electrical Works"
+
+    - name: "Smt. Sunita Deshmukh"
+      skill: "Tailor"
+      experience: "10 Years"
+      contact: "+91 9000000000"
+      availability: "Available"
+      area: "Stitching & Alteration"
+
+    - name: "Shri Anil Pawar"
+      skill: "Computer Operator"
+      experience: "5 Years"
+      contact: "CSC Center"
+      availability: "Office Hours"
+      area: "Digital Services"
+mahila_prerana_ani_kaushalya:
+  title: "Women's Inspirational Stories and Skills Program"
+  description: "Stories that inspire women and programs that empower them."
+
+  prerana_katha:
+    title: "Women's Inspirational Stories"
+    items:
+      - name: "Smt. Lata Patil"
+        village: "Our Village"
+        story: "Started a self-help group and runs a papad business."
+        impact: "Employment to 12 women."
+        photos:
+          - "/images/mahila/prerana/lata_1.jpg"
+
+      - name: "Smt. Sunita Jadhav"
+        village: "Our Village"
+        story: "Learned tailoring and became financially independent."
+        impact: "Trains young girls."
+        photos:
+          - "/images/mahila/prerana/sunita_1.jpg"
+          - "/images/mahila/prerana/sunita_2.jpg"
+
+  kaushalya_karyakram:
+    title: "Women's Skills Program"
+    items:
+      - name: "Tailoring & Stitching Training"
+        duration: "3 Months"
+        conducted_by: "Mahila Mandal"
+        eligibility: "Women (18+)"
+        description: "Training for tailoring and alteration."
+        certificate: "Yes"
+        photos:
+          - "/images/mahila/kaushalya/tailoring_1.jpg"
+
+      - name: "Food Processing Training"
+        duration: "2 Months"
+        conducted_by: "SHG Federation"
+        eligibility: "Women SHG Members"
+        description: "Papad, pickle, masala making."
+        certificate: "Yes"
+rojgar_portal_links:
+  title: "Employment Portals"
+  description: "Official government websites for jobs, training, and employment services."
+
+  items:
+    - name: "National Career Service (NCS)"
+      department: "Government of India"
+      purpose: "Jobs, career counseling, skill development"
+      url: "https://www.ncs.gov.in"
+      level: "National"
+
+    - name: "Maharashtra Rojgar Portal"
+      department: "Government of Maharashtra"
+      purpose: "State-level job opportunities"
+      url: "https://rojgar.mahaswayam.gov.in"
+      level: "State"
+
+    - name: "Mahaswayam Skill Portal"
+      department: "Government of Maharashtra"
+      purpose: "Skill training and certification"
+      url: "https://mahaswayam.gov.in"
+      level: "State"
+
+    - name: "PMKVY Portal"
+      department: "Government of India"
+      purpose: "Skill training under PMKVY scheme"
+      url: "https://pmkvyofficial.org"
+      level: "National"
+
+    - name: "CSC Digital Seva Portal"
+      department: "Government of India"
+      purpose: "Digital services and employment support"
+      url: "https://digitalseva.csc.gov.in"
+      level: "National"

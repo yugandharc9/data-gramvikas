@@ -1,0 +1,33 @@
+citizen_services:
+  title: "नागरिक सेवा"
+
+  services:
+    title: "नागरिक सेवा"
+    links:
+      - name: "जन्म प्रमाणपत्र"
+        description: "जन्म नोंदणी व प्रमाणपत्र सेवा"
+        url: "https://example.gov.in/birth"
+
+      - name: "मृत्यू प्रमाणपत्र"
+        description: "मृत्यू नोंदणी व प्रमाणपत्र सेवा"
+        url: "https://example.gov.in/death"
+
+      - name: "आरटीएस सेवा"
+        description: "राईट टू सर्व्हिसेस पोर्टल"
+        url: "https://example.gov.in/rts"
+
+  grievance:
+    title: "तक्रार निवारण"
+    description: "आपली तक्रार ऑनलाइन नोंदवा"
+    url: "/grievance"
+
+  feedback:
+    title: "अभिप्राय व सूचना"
+    placeholder: "आपला अभिप्राय येथे लिहा"
+    submit_label: "सबमिट करा"
+
+  tax_payment:
+    title: "ऑनलाइन कर भरणा"
+    description: "यूपीआयद्वारे घरपट्टी किंवा पाणीपट्टी भरा"
+    qr_image: "/qr/tax-payment.png"
+    note: "कृपया योग्य रक्कम भरल्यानंतरच सबमिट करा"

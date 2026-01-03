@@ -1,0 +1,61 @@
+grievance:
+  title: "तक्रार निवारण व अभिप्राय"
+
+  complaint_form:
+    title: "ऑनलाइन तक्रार नोंदणी"
+    fields:
+      - key: "name"
+        label: "नाव"
+        type: "text"
+      - key: "mobile"
+        label: "मोबाईल नंबर"
+        type: "tel"
+      # - key: "category"
+      #   label: "तक्रारीचा प्रकार"
+      #   type: "select"
+      #   options:
+      #     - "पाणीपुरवठा"
+      #     - "स्वच्छता"
+      #     - "रस्ते"
+      #     - "वीज"
+      #     - "इतर"
+      - key: "description"
+        label: "तक्रारीचा तपशील"
+        type: "textarea"
+    submit_label: "तक्रार नोंदवा"
+
+  tracking:
+    title: "तक्रार स्थिती तपासा"
+    placeholder: "तक्रार क्रमांक प्रविष्ट करा"
+    button: "स्थिती तपासा"
+
+  escalation:
+    title: "तक्रार निवारण पातळी"
+    levels:
+      - level: "स्तर १"
+        officer: "ग्रामसेवक"
+        time: "३ दिवस"
+      - level: "स्तर २"
+        officer: "सरपंच"
+        time: "७ दिवस"
+      - level: "स्तर ३"
+        officer: "बीडीओ / पंचायत समिती"
+        time: "१५ दिवस"
+
+  feedback_box:
+    title: "अभिप्राय / सूचना"
+    placeholder: "आपला अभिप्राय येथे लिहा"
+    submit_label: "सबमिट करा"
+
+  support:
+    title: "तात्काळ मदत"
+    toll_free: "1800-123-456"
+    whatsapp: "+91 90000 00000"
+
+  monthly_report:
+    title: "मासिक तक्रार अहवाल"
+    total: 120
+    resolved: 92
+    pending: 28
+    resolved_title: "सोडविलेल्या तक्रारी: "
+    done_resolved_title: "तक्रारी सोडविल्या"

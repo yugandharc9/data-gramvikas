@@ -1,0 +1,260 @@
+tab_peek_title: "पिक भाव" 
+tab_fertilizer_title: "खत माहिती"
+tab_nokri_title: "स्थानिक नोकरी"
+tab_nivida_title: "निविदा"
+tab_karar_title: "करार"
+employment_and_skills:
+  title: "रोजगार व कौशल्य विकास"
+  description: "गावातील रोजगाराच्या संधी, निविदा आणि करारांची माहिती."
+
+  stanik_nokri:
+    title: "स्थानिक नोकऱ्या"
+    items:
+      - title: "पाणीपुरवठा ऑपरेटर"
+        department: "ग्रामपंचायत"
+        qualification: "१० वी उत्तीर्ण"
+        type: "तात्पुरती"
+        last_date: "2025-02-20"
+        contact: "ग्रामपंचायत कार्यालय"
+
+      - title: "संगणक ऑपरेटर"
+        department: "सीएससी केंद्र"
+        qualification: "मूलभूत संगणक ज्ञान"
+        type: "कराराधारित"
+        last_date: "2025-03-05"
+
+  nivida:
+    title: "निविदा"
+    items:
+      - title: "रस्ता दुरुस्ती काम"
+        department: "सार्वजनिक बांधकाम विभाग"
+        estimate: "₹12,00,000"
+        last_date: "2025-02-28"
+
+      - title: "पाण्याची टाकी स्वच्छता"
+        department: "ग्रामपंचायत"
+        estimate: "₹2,50,000"
+        last_date: "2025-02-22"
+
+  karar:
+    title: "करार"
+    items:
+      - title: "स्वच्छता सेवा करार"
+        duration: "१ वर्ष"
+        department: "ग्राम परिषद"
+        value: "₹5,00,000"
+        contact: "ग्रामसेवक कार्यालय"
+
+      - title: "रस्ते दिवे देखभाल"
+        duration: "२ वर्षे"
+        department: "वीज विभाग"
+        value: "₹8,00,000"
+
+
+swayam_sahaygat_msme:
+  swayam_sahaygat:
+    title: "स्वयं सहाय्यता गट"
+    description: "ग्रामस्थ महिला व युवकांसाठी कौशल्य विकास व स्वयंरोजगार उपक्रम."
+    items:
+      - name: "सावित्रीबाई महिला बचत गट"
+        type: "महिला बचत गट"
+        members: 15
+        formed_year: 2016
+        activities:
+          - "पापड बनविणे"
+          - "बचत व कर्ज"
+        contact: "अंगणवाडी कार्यालय"
+        photos:
+          - "/images/shg/savitribai_1.jpg"
+
+  msme_upkram:
+    items:
+      - name: "पाटील डेअरी प्रॉडक्ट्स"
+        category: "अन्न प्रक्रिया"
+        owner: "श्री रमेश पाटील"
+        employees: 6
+        description: "स्थानिक पातळीवर दुग्धजन्य पदार्थांचा पुरवठा."
+        registered: "होय"
+        photos:
+          - "/images/msme/dairy_1.jpg"
+          - "/images/msme/dairy_2.jpg"
+
+
+training_and_digital_literacy:
+  title: "युवक प्रशिक्षण व डिजिटल साक्षरता"
+  description: "युवकांसाठी कौशल्य विकास व डिजिटल जागरूकता कार्यक्रम."
+
+  yuvak_prashikshan:
+    title: "युवक प्रशिक्षण"
+    items:
+      - name: "मूलभूत संगणक प्रशिक्षण"
+        duration: "३ महिने"
+        eligibility: "१० वी उत्तीर्ण"
+        conducted_by: "सीएससी केंद्र"
+        description: "संगणक, एमएस ऑफिस व इंटरनेट प्रशिक्षण."
+        certificate: "होय"
+
+      - name: "इलेक्ट्रिशियन प्रशिक्षण"
+        duration: "६ महिने"
+        eligibility: "८ वी उत्तीर्ण"
+        conducted_by: "आयटीआय सहयोग"
+        description: "विद्युत वायरिंग व देखभाल प्रशिक्षण."
+        certificate: "होय"
+
+  digital_saksharta:
+    title: "डिजिटल साक्षरता मोहीम"
+    items:
+      - name: "ऑनलाईन सरकारी सेवा प्रशिक्षण"
+        target_group: "सर्व नागरिक"
+        focus:
+          - "आधार सेवा"
+          - "पॅन कार्ड"
+          - "ऑनलाईन फॉर्म"
+        conducted_by: "ग्रामपंचायत"
+
+      - name: "डिजिटल पेमेंट प्रशिक्षण"
+        target_group: "शेतकरी व बचत गट"
+        focus:
+          - "UPI वापर"
+          - "बँकिंग अ‍ॅप्स"
+          - "फसवणूक प्रतिबंध"
+        conducted_by: "बँक मित्र"
+
+
+shetkari_sahay_kendra:
+  title: "शेतकरी सहाय्य केंद्र"
+  description: "शेतकऱ्यांसाठी पीक दर, खत माहिती व बाजार अपडेट्स."
+
+  pik_bhav:
+    title: "पीक दर"
+    items:
+      - crop: "सोयाबीन"
+        market: "पुणे एपीएमसी"
+        price: "₹4,800 / क्विंटल"
+        date: "2025-02-10"
+
+      - crop: "कापूस"
+        market: "बारामती एपीएमसी"
+        price: "₹6,900 / क्विंटल"
+        date: "2025-02-10"
+
+  khat_mahiti:
+    title: "खत माहिती"
+    items:
+      - name: "युरिया"
+        use: "नत्र पुरवठा"
+        dosage: "४५ किलो / एकर"
+        availability: "उपलब्ध"
+
+      - name: "डीएपी"
+        use: "मुळांची वाढ"
+        dosage: "५० किलो / एकर"
+        availability: "मर्यादित"
+
+  bajar_updates:
+    title: "बाजार अपडेट्स"
+    items:
+      - message: "आज सोयाबीन दरात ₹२०० वाढ"
+        date: "2025-02-10"
+        priority: "उच्च"
+
+      - message: "उद्या खताचा साठा येणार"
+        date: "2025-02-09"
+        priority: "मध्यम"
+
+
+gaav_talent_directory:
+  title: "गाव कौशल्य निर्देशिका"
+  description: "गावातील कुशल व्यक्तींची यादी."
+
+  items:
+    - name: "श्री रमेश पाटील"
+      skill: "मेसन"
+      experience: "१५ वर्षे"
+      contact: "+91 9876543210"
+      availability: "उपलब्ध"
+      area: "बांधकाम"
+
+    - name: "श्री सुरेश जाधव"
+      skill: "इलेक्ट्रीशियन"
+      experience: "८ वर्षे"
+      contact: "+91 9123456789"
+      availability: "कॉलवर"
+      area: "विद्युत काम"
+
+    - name: "सौ. सुनीता देशमुख"
+      skill: "शिंपी"
+      experience: "१० वर्षे"
+      contact: "+91 9000000000"
+      availability: "उपलब्ध"
+      area: "शिवणकाम"
+
+
+mahila_prerana_ani_kaushalya:
+  title: "महिला प्रेरणादायी कथा व कौशल्य कार्यक्रम"
+  description: "महिलांना प्रेरणा देणाऱ्या कथा व सक्षमीकरण उपक्रम."
+
+  prerana_katha:
+    title: "महिला प्रेरणादायी कथा"
+    items:
+      - name: "सौ. लता पाटील"
+        village: "आमचे गाव"
+        story: "स्वयं सहाय्यता गट स्थापन करून उद्योग सुरू केला."
+        impact: "१२ महिलांना रोजगार."
+        photos:
+          - "/images/mahila/prerana/lata_1.jpg"
+
+      - name: "सौ. सुनीता जाधव"
+        village: "आमचे गाव"
+        story: "शिवणकाम शिकून आर्थिक स्वावलंबन."
+        impact: "तरुणींना प्रशिक्षण."
+        photos:
+          - "/images/mahila/prerana/sunita_1.jpg"
+          - "/images/mahila/prerana/sunita_2.jpg"
+
+  kaushalya_karyakram:
+    title: "महिला कौशल्य कार्यक्रम"
+    items:
+      - name: "शिवणकाम प्रशिक्षण"
+        duration: "३ महिने"
+        conducted_by: "महिला मंडळ"
+        eligibility: "१८ वर्षांवरील महिला"
+        description: "शिवणकाम व फॅशन प्रशिक्षण."
+        certificate: "होय"
+
+      - name: "अन्न प्रक्रिया प्रशिक्षण"
+        duration: "२ महिने"
+        conducted_by: "स्वयं सहाय्यता गट"
+        eligibility: "महिला बचत गट"
+        description: "पापड, लोणचे, मसाले तयार करणे."
+        certificate: "होय"
+
+
+rojgar_portal_links:
+  title: "रोजगार पोर्टल"
+  description: "सरकारी नोकरी व प्रशिक्षणासाठी अधिकृत संकेतस्थळे."
+
+  items:
+    - name: "नॅशनल करिअर सर्व्हिस (NCS)"
+      department: "भारत सरकार"
+      purpose: "नोकऱ्या, करिअर मार्गदर्शन, कौशल्य विकास"
+      url: "https://www.ncs.gov.in"
+      level: "राष्ट्रीय"
+
+    - name: "महाराष्ट्र रोजगार पोर्टल"
+      department: "महाराष्ट्र शासन"
+      purpose: "राज्यस्तरीय रोजगार संधी"
+      url: "https://rojgar.mahaswayam.gov.in"
+      level: "राज्य"
+
+    - name: "महास्वयं पोर्टल"
+      department: "महाराष्ट्र शासन"
+      purpose: "कौशल्य प्रशिक्षण व प्रमाणपत्र"
+      url: "https://mahaswayam.gov.in"
+      level: "राज्य"
+
+    - name: "सीएससी डिजिटल सेवा"
+      department: "भारत सरकार"
+      purpose: "डिजिटल सेवा व रोजगार सहाय्य"
+      url: "https://digitalseva.csc.gov.in"
+      level: "राष्ट्रीय"

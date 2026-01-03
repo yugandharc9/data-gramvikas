@@ -1,0 +1,171 @@
+adopt_tree:
+  title: "वृक्ष दत्तक घ्या"
+  subtitle: "आज लागवड करा, उद्याचे भविष्य सुरक्षित करा"
+  description: >
+    एक झाड दत्तक घ्या आणि निसर्गाचे रक्षण करा.
+    आजचे छोटे पाऊल उद्याचे हिरवे भविष्य घडवते.
+
+  cta:
+    primary:
+      label: "आता दत्तक घ्या"
+      link: "/adopt-tree"
+    secondary:
+      label: "अधिक माहिती"
+      link: "/about-tree-program"
+
+  images:
+    - "/images/tree1.jpg"
+    - "/images/tree2.jpg"
+    - "/images/tree3.jpg"
+
+
+green_scoreboard:
+  title: "ग्रीन स्कोअरबोर्ड"
+  subtitle: "वृक्ष लागवड प्रगती अहवाल"
+
+  stats:
+    planted:
+      label: "लावलेली झाडे"
+      value: 1250
+
+    target:
+      label: "लक्ष्य"
+      value: 5000
+
+    volunteers:
+      label: "स्वयंसेवक"
+      value: 245
+
+
+yojanas:
+  title: "ग्राम विकास योजना"
+  items:
+    - name: "वृक्षारोपण मोहीम"
+      summary: "हरित गावाकडे एक पाऊल"
+      detail: "पर्यावरण संरक्षणासाठी मोठ्या प्रमाणावर वृक्षलागवड."
+      image: "/images/yojana/vruksharopan.jpg"
+      adoptable: true
+
+    - name: "कचरा वर्गीकरण योजना"
+      summary: "स्वच्छता आणि शाश्वतता"
+      detail: "ओला व सुका कचरा वेगळा करून योग्य व्यवस्थापन."
+      image: "/images/yojana/kachara.jpg"
+      adoptable: false
+
+    - name: "पावसाचे पाणी साठवण"
+      summary: "जलसंधारणासाठी उपक्रम"
+      detail: "पावसाचे पाणी साठवून भूजल पातळी वाढवणे."
+      image: "/images/yojana/rainwater.jpg"
+      adoptable: false
+
+    - name: "सौर ऊर्जा योजना"
+      summary: "स्वच्छ आणि परवडणारी ऊर्जा"
+      detail: "सौरऊर्जेद्वारे वीज बचत व पर्यावरण संरक्षण."
+      image: "/images/yojana/solar.jpg"
+      adoptable: false
+
+    - name: "पाणी संवर्धन योजना"
+      summary: "जलसंपत्तीचे संवर्धन"
+      detail: "तलाव व बंधारे यांद्वारे पाणीसाठा वाढवणे."
+      image: "/images/yojana/water.jpg"
+      adoptable: false
+
+    - name: "एक झाड दत्तक घ्या"
+      summary: "तुमचे झाड, तुमची जबाबदारी"
+      detail: "नागरिकांनी झाड दत्तक घेऊन त्याचे संगोपन करणे."
+      image: "/images/yojana/adopt-tree.jpg"
+      adoptable: true
+
+
+krushi_upjivika:
+  title: "कृषी व उपजीविका"
+  sections:
+    - key: "krushi"
+      title: "कृषी"
+      description: "शाश्वत शेती पद्धतींमुळे उत्पादन वाढवणे."
+      image: "/images/krushi.jpg"
+      points:
+        - "सेंद्रिय शेती"
+        - "ठिबक व तुषार सिंचन"
+        - "पीक संरक्षण मार्गदर्शन"
+        - "माती आरोग्य सुधारणा"
+
+    - key: "upjivika"
+      title: "उपजीविका"
+      description: "स्वरोजगार आणि कौशल्य विकास."
+      image: "/images/upjivika.jpg"
+      points:
+        - "महिला बचत गट"
+        - "कौशल्य विकास प्रशिक्षण"
+        - "लघुउद्योग"
+        - "स्वरोजगार उपक्रम"
+
+
+pik_salla:
+  title: "पीक सल्ला व हवामान माहिती"
+
+  weather:
+    today:
+      condition: "हलका पाऊस"
+      temperature: "28°C"
+      humidity: "78%"
+      note: "दुपारनंतर पावसाची शक्यता"
+
+  crop_advisory:
+    crop: "सोयाबीन"
+    stage: "फुलोरा अवस्था"
+    advice:
+      - "फवारणी टाळा"
+      - "पाणी साचू देऊ नका"
+      - "किडीवर लक्ष ठेवा"
+
+  alerts:
+    - "पुढील 24 तासांत जोरदार पावसाची शक्यता"
+    - "किडींचा प्रादुर्भाव वाढण्याची शक्यता"
+
+
+bajarbhav:
+  title: "बाजारभाव"
+
+  summary:
+    - label: "आजचा दर"
+      value: "₹5,200 / क्विंटल"
+      trend: "वाढ"
+
+    - label: "कालच्या तुलनेत"
+      value: "+₹150"
+      trend: "वाढ"
+
+    - label: "एकूण आवक"
+      value: "12,500 क्विंटल"
+      trend: "स्थिर"
+
+  prices:
+    - crop: "सोयाबीन"
+      market: "पुणे"
+      today: 5200
+      yesterday: 5050
+      unit: "₹/क्विंटल"
+
+    - crop: "कापूस"
+      market: "बारामती"
+      today: 6800
+      yesterday: 6900
+      unit: "₹/क्विंटल"
+
+
+shetkari_yashogatha:
+  title: "शेतकरी यशोगाथा"
+  description: "यशस्वी शेतकऱ्यांच्या प्रेरणादायी कहाण्या"
+
+  items:
+    - name: "संजय पाटील"
+      role: "प्रगतशील शेतकरी"
+      village: "रामनगर"
+      photo: "/images/yashogatha/sanjay-patil.jpg"
+      achievement: >
+        ठिबक सिंचन आणि सेंद्रिय शेतीद्वारे उत्पादनात लक्षणीय वाढ.
+      highlights:
+        - "ठिबक सिंचन"
+        - "सेंद्रिय शेती"
+        - "राज्यस्तरीय सन्मान"

@@ -1,0 +1,60 @@
+title: "गावाचा वार्षिक अर्थसंकल्प"
+
+total_budget: 5000000  # रुपयांमध्ये
+
+currency: "INR"
+
+categories:
+  - name: "पाणीपुरवठा"
+    amount: 1200000
+
+  - name: "रस्ते व पायाभूत सुविधा"
+    amount: 1500000
+
+  - name: "आरोग्य व स्वच्छता"
+    amount: 700000
+
+  - name: "शिक्षण"
+    amount: 800000
+
+  - name: "वीज व रस्त्यावरील दिवे"
+    amount: 500000
+
+  - name: "इतर खर्च"
+    amount: 300000
+
+
+anudan_dengi:
+  title: "ग्राम उत्पन्न स्रोत"
+  income:
+    anudan:
+      title: "अनुदान"
+      description: "शासकीय व जिल्हा परिषद योजनांतर्गत मिळणारा निधी"
+      sources:
+        - name: "१५वा वित्त आयोग अनुदान"
+          amount: 1500000
+          department: "केंद्र सरकार"
+
+        - name: "जिल्हा परिषद विकास निधी"
+          amount: 1000000
+          department: "जिल्हा परिषद"
+
+        - name: "राज्य शासन विशेष अनुदान"
+          amount: 750000
+          department: "राज्य शासन"
+
+    dengi:
+      title: "उत्पन्न (स्थानिक महसूल)"
+      description: "ग्रामस्तरीय कर व शुल्कांमधून मिळणारे उत्पन्न"
+      sources:
+        - name: "घरपट्टी"
+          amount: 600000
+
+        - name: "पाणीपट्टी"
+          amount: 350000
+
+        - name: "दुकान परवाना शुल्क"
+          amount: 200000
+
+        - name: "बाजार फी"
+          amount: 150000

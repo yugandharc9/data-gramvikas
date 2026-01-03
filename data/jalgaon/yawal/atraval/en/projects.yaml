@@ -1,0 +1,74 @@
+projects_title: "Village Development Projects"
+before_after_title: "Village Development – Before & After" 
+impact_title: "Impact" 
+projects:
+  defaultTab: ongoing
+  tabs:
+    - id: ongoing
+      label: Ongoing
+      items:
+        - name: "Village Road Repair"
+          image: "/images/road.jpg"
+          summary: "Main road repair work in progress"
+          expense: "₹12,50,000"
+    - id: proposed
+      label: Proposed
+      items:
+        - name: "Community Hall"
+          image: "/images/hall.jpg"
+          summary: "New multipurpose community hall"
+          expense: "₹25,00,000"
+
+    - id: completed
+      label: Completed
+      items:
+        - name: "Street Lighting"
+          image: "/images/lights.jpg"
+          summary: "LED street lights installed"
+          expense: "₹4,80,000"
+before_after_projects:
+  - id: road_repair
+    title: "Village Main Road Repair"
+    description: "Road condition before and after concrete work"
+    before_image: "/images/road_before.jpg"
+    after_image: "/images/road_after.jpg"
+
+  - id: water_tank
+    title: "Water Tank Renovation"
+    description: "Old damaged tank replaced with new structure"
+    before_image: "/images/tank_before.jpg"
+    after_image: "/images/tank_after.jpg"
+
+  - id: drainage
+    title: "Drainage System Upgrade"
+    description: "Overflow issue fixed with new drainage lines"
+    before_image: "/images/drain_before.jpg"
+    after_image: "/images/drain_after.jpg"
+impacts:
+  - title: "Total Revenue"
+    value: "$1,250"
+    trend:
+      direction: "up"
+      percent: "+12.5%"
+    description: "Increase in village income this year"
+
+  - title: "New Households"
+    value: "320"
+    trend:
+      direction: "up"
+      percent: "+8%"
+    description: "Families added in the last year"
+
+  - title: "Water Usage"
+    value: "↓ 18%"
+    trend:
+      direction: "down"
+      percent: "-18%"
+    description: "Reduction in water consumption"
+
+  - title: "Employment Rate"
+    value: "92%"
+    trend:
+      direction: "up"
+      percent: "+6%"
+    description: "Increase in local employment"

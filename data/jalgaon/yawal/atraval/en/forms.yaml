@@ -1,0 +1,33 @@
+citizen_services:
+  title: "Citizen Services"
+
+  services:
+    title: "Citizen Services"
+    links:
+      - name: "Birth Certificate"
+        description: "Birth registration and certificate services"
+        url: "https://example.gov.in/birth"
+
+      - name: "Death Certificate"
+        description: "Death registration and certificate services"
+        url: "https://example.gov.in/death"
+
+      - name: "RTS Services"
+        description: "Right to Services portal"
+        url: "https://example.gov.in/rts"
+
+  grievance:
+    title: "Grievance Redressal"
+    description: "Submit your complaint online"
+    url: "/grievance"
+
+  feedback:
+    title: "Feedback & Suggestions"
+    placeholder: "Write your feedback or suggestion here"
+    submit_label: "Submit"
+
+  tax_payment:
+    title: "Online Tax Payment"
+    description: "Pay property tax or water tax using UPI"
+    qr_image: "/qr/tax-payment.png"
+    note: "Please enter the correct amount after scanning the QR"

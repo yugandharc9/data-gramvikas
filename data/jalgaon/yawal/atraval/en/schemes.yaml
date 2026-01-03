@@ -1,0 +1,59 @@
+beneficiaries_title: "Star Labharthi"
+schemes_title: "Government Schemes"
+beneficiaries:
+  - id: 1
+    name: "Suresh Patil"
+    scheme: "Pradhan Mantri Awas Yojana"
+    photo: "/images/beneficiary1.jpg"
+    impact: "Received a permanent house which improved family safety and living conditions."
+
+  - id: 2
+    name: "Lata Deshmukh"
+    scheme: "Ujjwala Gas Yojana"
+    photo: "/images/beneficiary2.jpg"
+    impact: "Got LPG connection which reduced smoke-related health problems."
+
+  - id: 3
+    name: "Ramesh Pawar"
+    scheme: "PM Kisan Yojana"
+    photo: "/images/beneficiary3.jpg"
+    impact: "Financial assistance helped in buying quality seeds and fertilizers."
+schemes:
+  - level: central
+    label: "Central Schemes"
+    items:
+      - name: "Pradhan Mantri Awas Yojana"
+        eligibility: "Families without permanent housing"
+        process: "Apply through local gram panchayat or online portal"
+        documents:
+          - Aadhaar Card
+          - Income Certificate
+          - Bank Passbook
+
+      - name: "Ayushman Bharat"
+        eligibility: "Low-income families"
+        process: "Verify eligibility and apply at CSC center"
+        documents:
+          - Aadhaar Card
+          - Ration Card
+
+  - level: state
+    label: "State Schemes"
+    items:
+      - name: "MahaDBT Scholarship"
+        eligibility: "Students from reserved categories"
+        process: "Apply via MahaDBT portal"
+        documents:
+          - Caste Certificate
+          - Income Certificate
+          - College ID
+
+  - level: district
+    label: "District Schemes"
+    items:
+      - name: "Village Water Supply Scheme"
+        eligibility: "Residents of notified villages"
+        process: "Apply through Gram Panchayat office"
+        documents:
+          - Residence Proof
+          - Aadhaar Card

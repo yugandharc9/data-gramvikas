@@ -1,0 +1,111 @@
+photo_gallery:
+  title: "Photo Gallery"
+
+  categories:
+    - key: "festivals"
+      title: "Festivals"
+      photos:
+        - src: "/gallery/san1.jpg"
+          caption: "Ganesh Festival 2024"
+        - src: "/gallery/san2.jpg"
+          caption: "Diwali Celebration"
+        - src: "/gallery/san3.jpg"
+          caption: "Pola Festival"
+
+    - key: "development"
+      title: "Development Works"
+      photos:
+        - src: "/gallery/dev1.jpg"
+          caption: "Road Construction"
+        - src: "/gallery/dev2.jpg"
+          caption: "Water Supply Project"
+        - src: "/gallery/dev3.jpg"
+          caption: "New School Building"
+
+
+video_gallery:
+  title: "Video Gallery"
+
+  categories:
+    - key: "festivals"
+      #title: "Festivals"
+      videos:
+        - title: "Ganesh Festival Procession 2024"
+          type: "youtube"
+          src: "https://www.youtube.com/embed/FK-autiz1b4?si=tVyDy5gkmzT7Wu0w
+        - title: "Pola Festival Celebration"
+          type: "youtube"
+          src: "https://www.youtube.com/embed/kx5po1v-ieI?si=Sl_EtLkxVQBegfX1"
+
+
+press:
+  title: "Press & Media Coverage"
+
+  press_meets:
+    - date: "2024-10-12"
+      title: "Press Conference on Village Development Projects"
+      description: "Press meet organized to brief media about ongoing village development works."
+      photos:
+        - "/media/press1.jpg"
+        - "/media/press2.jpg"
+
+    - date: "2024-08-05"
+      title: "Water Supply Project Briefing"
+      description: "Interaction with media regarding water supply initiatives."
+      photos:
+        - "/media/press3.jpg"
+
+  media_coverage:
+    - type: "news"
+      outlet: "Lokmat"
+      title: "New Water Conservation Project in Village"
+      date: "2024-10-13"
+      link: "https://example.com/news1"
+
+    - type: "news"
+      outlet: "Sakal"
+      title: "Women Self-Help Groups Receive Support"
+      date: "2024-08-06"
+      link: "https://example.com/news2"
+
+    - type: "video"
+      outlet: "Local News Channel"
+      title: "Gram Panchayat Press Meet"
+      date: "2024-10-12"
+      link: "https://www.youtube.com/embed/VIDEO_ID"
+
+
+before_after_projects:
+  - id: road_repair
+    title: "Village Road Repair"
+    description: "Road condition before and after concrete work"
+    before_image: "/images/road_before.jpg"
+    after_image: "/images/road_after.jpg"
+
+  - id: water_tank
+    title: "Water Tank Renovation"
+    description: "Old damaged tank replaced with new structure"
+    before_image: "/images/tank_before.jpg"
+    after_image: "/images/tank_after.jpg"
+
+  - id: drainage
+    title: "Drainage System Upgrade"
+    description: "Overflow issue resolved with new drainage lines"
+    before_image: "/images/drain_before.jpg"
+    after_image: "/images/drain_after.jpg"
+
+
+mini_documentaries:
+  title: "Mini Documentaries"
+
+  categories:
+    - key: "festivals"
+      #title: "Festivals"
+      videos:
+        - title: "Ganesh Festival Procession 2024"
+          type: "youtube"
+          src: "https://www.youtube.com/embed/VIDEO_ID_1"
+
+        - title: "Pola Festival Celebration"
+          type: "youtube"
+          src: "https://www.youtube.com/embed/VIDEO_ID_2"

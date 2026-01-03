@@ -1,0 +1,57 @@
+title: "माझे गाव, माझी प्रगती" 
+top_achievements_title: "वर्षातील टॉप ५ उपलब्धी"
+ward_comparison_title: "वॉर्डनिहाय तुलनात्मक प्रगती"
+titles:
+  mulbhut_suvidha: "मूलभूत सुविधा"
+  performance_index: "कामगिरी निर्देशांक"
+
+kpis:
+  - label: "लोकसंख्या"
+    value: "8,450"
+
+  - label: "साक्षरता दर"
+    value: "87%"
+
+  - label: "स्वच्छता कव्हरेज"
+    value: "92%"
+
+utilities:
+  - label: "पाणीपुरवठा"
+    value: "78%"
+
+  - label: "वीजपुरवठा"
+    value: "100%"
+
+performance:
+  - label: "योजना लाभार्थी"
+    value: "1,240"
+
+  - label: "ग्रामनिधी वापर"
+    value: "68%"
+
+  - label: "तक्रार निवारण"
+    value: "91%"
+
+  - label: "वृक्षारोपण"
+    value: "3,500"
+
+ward_comparison:
+  title: "वॉर्डनिहाय प्रगती"
+  data:
+    - ward: "वॉर्ड 1"
+      progress: 72
+    - ward: "वॉर्ड 2"
+      progress: 85
+    - ward: "वॉर्ड 3"
+      progress: 64
+    - ward: "वॉर्ड 4"
+      progress: 90
+
+top_achievements:
+  title: "वर्षातील टॉप ५ कामगिरी"
+  items:
+    - "१००% वीजपुरवठा"
+    - "नवीन पाणीपुरवठा योजना"
+    - "शाळांमध्ये डिजिटल वर्ग"
+    - "महिला बचत गटांचा विस्तार"
+    - "३,५०० झाडांची लागवड"

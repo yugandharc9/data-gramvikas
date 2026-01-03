@@ -1,0 +1,87 @@
+deadlines_title: "महत्वाच्या अंतिम तारखा"
+deadlines_list_title: "अंतिम तारखा यादी"
+upcoming_events_title: "आगामी कार्यक्रम व बैठका"
+circulars_title: "परिपत्रके आणि सूचना"
+forms_title: "अर्ज डाऊनलोड"
+select_message: "तपशील पाहण्यासाठी हायलाइट केलेली तारीख निवडा."
+notice_tab_titles:
+  - "परिपत्रके"
+  - "सूचना"
+  - "शासन निर्णय"
+_calendar_lang: "mr-IN"
+
+deadlines:
+  - title: "शिष्यवृत्ती अर्जाची अंतिम तारीख"
+    date: "2025-02-15"
+    description: "पोस्ट मॅट्रिक शिष्यवृत्तीसाठी अर्ज करण्याची अंतिम तारीख"
+
+  - title: "गृहनिर्माण योजनेसाठी नोंदणी"
+    date: "2025-02-20"
+    description: "गृहनिर्माण योजनेअंतर्गत अर्ज करण्याची अंतिम तारीख"
+
+  - title: "शेतकरी अनुदान अर्ज"
+    date: "2025-02-28"
+    description: "पीक अनुदानासाठी अर्ज करण्याची अंतिम तारीख"
+
+events:
+  - title: "ग्रामसभा बैठक"
+    date: "2025-02-18"
+    time: "11:00 AM"
+    location: "ग्रामपंचायत सभागृह"
+    description: "ग्रामविकास व अर्थसंकल्पावर चर्चा."
+
+  - title: "आरोग्य तपासणी शिबिर"
+    date: "2025-02-22"
+    time: "09:00 AM"
+    location: "प्राथमिक आरोग्य केंद्र"
+    description: "मोफत आरोग्य तपासणी व औषध वितरण."
+
+  - title: "शेतकरी मार्गदर्शन कार्यक्रम"
+    date: "2025-02-27"
+    time: "10:30 AM"
+    location: "पंचायत कार्यालय"
+    description: "आधुनिक शेती पद्धती व शासकीय योजनांची माहिती."
+
+circulars:
+  - title: "मालमत्ता कर भरणा परिपत्रक"
+    department: "महसूल विभाग"
+    date: "2025-02-10"
+    description: "३१ मार्चपूर्वी मालमत्ता कर भरण्याबाबत सूचना."
+    file: "/docs/property-tax.pdf"
+
+notices:
+  - title: "पाणीपुरवठा बंद सूचना"
+    department: "पाणीपुरवठा विभाग"
+    date: "2025-02-18"
+    description: "देखभालीसाठी पाणीपुरवठा तात्पुरता बंद राहील."
+    file: "/docs/water-notice.pdf"
+
+grs:
+  - title: "नवीन शैक्षणिक धोरण शासन निर्णय"
+    department: "शिक्षण विभाग"
+    date: "2025-01-20"
+    description: "शैक्षणिक सुधारणांसाठी नवीन शासन निर्णय."
+    file: "/docs/education-gr.pdf"
+
+downloads:
+  forms:
+    - title: "उत्पन्न प्रमाणपत्र अर्ज"
+      description: "उत्पन्न प्रमाणपत्रासाठी आवश्यक अर्ज."
+      file: "/docs/forms/income-certificate.pdf"
+
+    - title: "जात प्रमाणपत्र अर्ज"
+      description: "जात प्रमाणपत्रासाठी अर्ज."
+      file: "/docs/forms/caste-certificate.pdf"
+
+  documents:
+    - title: "ग्राम विकास आराखडा"
+      description: "ग्रामविकासाचा अधिकृत आराखडा."
+      file: "/docs/documents/village-plan.pdf"
+
+    - title: "पाणीपुरवठा मार्गदर्शक तत्त्वे"
+      description: "पाणी वापर व शुल्कासंबंधी मार्गदर्शक सूचना."
+      file: "/docs/documents/water-guidelines.pdf"
+
+  forms_tab_titles:
+    - "फॉर्म"
+    - "दस्तऐवज"

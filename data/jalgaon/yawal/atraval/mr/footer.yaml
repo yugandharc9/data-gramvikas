@@ -1,0 +1,54 @@
+about:
+  title: "ग्राम पंचायत"
+  description: "पारदर्शकता, विकास आणि विश्वासाने गावाची सेवा."
+
+quick_links:
+  title: "द्रुत दुवे"
+  links:
+    - label: "गावाबद्दल"
+      path: "/about"
+    - label: "डॅशबोर्ड"
+      path: "/dashboard"
+    - label: "घोषणा"
+      path: "/announcements"
+    - label: "योजना"
+      path: "/schemes"
+    - label: "प्रकल्प"
+      path: "/projects"
+    - label: "तक्रार निवारण"
+      path: "/grievance"
+
+services:
+  title: "सेवा व माहिती"
+  links:
+    - label: "शिक्षण"
+      path: "/education"
+    - label: "रोजगार"
+      path: "/employment"
+    - label: "पर्यावरण"
+      path: "/environment"
+    - label: "पायाभूत सुविधा"
+      path: "/infra-facilities"
+    - label: "फॉर्म्स"
+      path: "/forms"
+    - label: "गॅलरी"
+      path: "/gallery"
+
+contact:
+  title: "संपर्क"
+  address: |
+    ग्राम पंचायत कार्यालय,
+    गाव नाव, तालुका नाव,
+    जिल्हा नाव – पिन
+  phone: "+91 9XXXXXXXXX"
+  email: "grampanchayat@email.com"
+
+social:
+  rdd:
+    title: "RDD विभाग"
+    facebook: "https://www.facebook.com/maharashtra.gramvikasvibhag"
+    instagram: "https://www.instagram.com/gramvikasvibhag.maharashtra/?igsh=bjNoZDY5d3Z3NHly#"
+  gram_panchayat:
+    title: "ग्राम पंचायत"
+    facebook: "https://facebook.com/grampanchayat"
+    instagram: "https://instagram.com/grampanchayat"

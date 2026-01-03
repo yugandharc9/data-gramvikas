@@ -1,0 +1,57 @@
+title: "My Village, My Progress"
+top_achievements_title: "Top 5 Achievements"
+ward_comparison_title: "Progress comparison per ward"
+titles:
+  mulbhut_suvidha: "Basic Facilities"
+  performance_index: "Performance Index"
+
+kpis:
+  - label: "Population"
+    value: "8,450"
+
+  - label: "Literacy Rate"
+    value: "87%"
+
+  - label: "Sanitation Coverage"
+    value: "92%"
+
+utilities:
+  - label: "Water Supply"
+    value: "78%"
+
+  - label: "Electricity Supply"
+    value: "100%"
+
+performance:
+  - label: "Scheme Beneficiaries"
+    value: "1,240"
+
+  - label: "Village Fund Utilization"
+    value: "68%"
+
+  - label: "Grievance Redressal"
+    value: "91%"
+
+  - label: "Tree Plantation"
+    value: "3,500"
+
+ward_comparison:
+  title: "Ward-wise Comparative Progress"
+  data:
+    - ward: "Ward 1"
+      progress: 72
+    - ward: "Ward 2"
+      progress: 85
+    - ward: "Ward 3"
+      progress: 64
+    - ward: "Ward 4"
+      progress: 90
+
+top_achievements:
+  title: "Top 5 Achievements of the Year"
+  items:
+    - "100% Electricity Coverage"
+    - "New Water Supply Scheme"
+    - "Digital Classrooms in Schools"
+    - "Expansion of Women Self-Help Groups"
+    - "3,500 Trees Planted"

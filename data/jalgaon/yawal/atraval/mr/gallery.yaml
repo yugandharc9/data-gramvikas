@@ -1,0 +1,111 @@
+photo_gallery:
+  title: "छायाचित्र संग्रह"
+
+  categories:
+    - key: "festivals"
+      title: "सण"
+      photos:
+        - src: "/gallery/san1.jpg"
+          caption: "गणेशोत्सव २०२४"
+        - src: "/gallery/san2.jpg"
+          caption: "दिवाळी साजरीकरण"
+        - src: "/gallery/san3.jpg"
+          caption: "पोळा सण"
+
+    - key: "development"
+      title: "विकास कामे"
+      photos:
+        - src: "/gallery/dev1.jpg"
+          caption: "रस्ते बांधकाम"
+        - src: "/gallery/dev2.jpg"
+          caption: "पाणीपुरवठा योजना"
+        - src: "/gallery/dev3.jpg"
+          caption: "नवीन शाळा इमारत"
+
+
+video_gallery:
+  title: "व्हिडिओ गॅलरी"
+
+  categories:
+    - key: "festivals"
+      #title: "सण"
+      videos:
+        - title: "गणेशोत्सव मिरवणूक २०२४"
+          type: "youtube"
+          src: "https://www.youtube.com/embed/FK-autiz1b4?si=tVyDy5gkmzT7Wu0w"
+
+        - title: "पोळा सण उत्सव"
+          type: "youtube"
+          src: "https://www.youtube.com/embed/kx5po1v-ieI?si=Sl_EtLkxVQBegfX1"
+
+
+press:
+  title: "प्रेस व मीडिया"
+
+  press_meets:
+    - date: "2024-10-12"
+      title: "ग्रामविकास प्रकल्पांबाबत पत्रकार परिषद"
+      description: "गावातील विकासकामांबाबत पत्रकार परिषद."
+      photos:
+        - "/media/press1.jpg"
+        - "/media/press2.jpg"
+
+    - date: "2024-08-05"
+      title: "पाणीपुरवठा प्रकल्प माहिती"
+      description: "पाणीपुरवठा प्रकल्पाबाबत पत्रकारांना माहिती."
+      photos:
+        - "/media/press3.jpg"
+
+  media_coverage:
+    - type: "news"
+      outlet: "लोकमत"
+      title: "गावात नवीन जलसंधारण प्रकल्प"
+      date: "2024-10-13"
+      link: "https://example.com/news1"
+
+    - type: "news"
+      outlet: "सकाळ"
+      title: "महिला बचत गटांना नवे पाठबळ"
+      date: "2024-08-06"
+      link: "https://example.com/news2"
+
+    - type: "video"
+      outlet: "स्थानिक न्यूज चॅनेल"
+      title: "ग्रामपंचायत पत्रकार परिषद"
+      date: "2024-10-12"
+      link: "https://www.youtube.com/embed/VIDEO_ID"
+
+
+before_after_projects:
+  - id: road_repair
+    title: "गाव रस्ता दुरुस्ती"
+    description: "रस्त्याच्या दुरुस्तीपूर्वी आणि नंतरची स्थिती"
+    before_image: "/images/road_before.jpg"
+    after_image: "/images/road_after.jpg"
+
+  - id: water_tank
+    title: "पाणी टाकी नूतनीकरण"
+    description: "जुनी टाकी काढून नवीन टाकी बसविणे"
+    before_image: "/images/tank_before.jpg"
+    after_image: "/images/tank_after.jpg"
+
+  - id: drainage
+    title: "निचरा व्यवस्था सुधारणा"
+    description: "नवीन नाल्या बांधून पाणी साचण्याची समस्या दूर केली"
+    before_image: "/images/drain_before.jpg"
+    after_image: "/images/drain_after.jpg"
+
+
+mini_documentaries:
+  title: "लघुपट"
+
+  categories:
+    - key: "festivals"
+      #title: "सण"
+      videos:
+        - title: "गणेशोत्सव मिरवणूक २०२४"
+          type: "youtube"
+          src: "https://www.youtube.com/embed/FK-autiz1b4?si=tVyDy5gkmzT7Wu0w"
+        - title: "पोळा सण उत्सव"
+          type: "youtube"
+          src: "https://www.youtube.com/embed/VIDEO_ID_2"

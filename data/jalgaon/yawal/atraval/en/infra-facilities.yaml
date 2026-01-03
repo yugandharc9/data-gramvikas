@@ -1,0 +1,207 @@
+title: "Village Infrastructure & Public Facilities"
+area_text: "Area"
+calendar_text: "Calendar"
+additional_info_text: "Additional Information"
+items:
+  # ---------------- WATER SUPPLY ----------------
+  - name: "Village Drinking Water Supply Scheme"
+    type: "Water Supply"
+    address: "Main Water Tank, Ward No. 2, Village XYZ"
+    contact:
+      person: "Water Supply Officer – Shri Patil"
+      phone: "+91 98760 11111"
+    summary: "Provides daily drinking water supply to households through pipeline connections."
+    photos:
+      - "/images/infrastructure/water/tank.jpg"
+      - "/images/infrastructure/water/pipeline.jpg"
+    details:
+      source: "Overhead Water Tank"
+      coverage: "All wards"
+      supply_time: "Morning 6:00 AM – 8:00 AM"
+
+  # ---------------- CLEANLINESS ----------------
+  - name: "Village Cleanliness & Solid Waste Management"
+    type: "Cleanliness"
+    address: "Gram Panchayat Office, Village XYZ"
+    contact:
+      person: "Sanitation Supervisor – Shri More"
+      phone: "+91 98760 22222"
+    summary: "Daily door-to-door garbage collection and village cleanliness drive."
+    details:
+      frequency: "Daily"
+      waste_type: "Wet & Dry Segregation"
+      initiative: "Swachh Bharat Abhiyan"
+
+  # ---------------- ROADS ----------------
+  - name: "Internal Village Roads"
+    type: "Road Infrastructure"
+    address: "All Village Wards"
+    contact:
+      person: "PWD Coordinator – Shri Jadhav"
+      phone: "+91 98760 33333"
+    photos:
+      - "/images/infrastructure/school/building.jpg"
+      - "/images/infrastructure/school/classroom.jpg"
+    summary: "Concrete and tar roads connecting all wards, schools, and public places."
+    details:
+      total_length_km: 8
+      last_repair: "2023"
+      funding: "Zilla Parishad"
+
+  # ---------------- STREET LIGHTS ----------------
+  - name: "Street Lighting System"
+    type: "Street Lights"
+    address: "All Major Roads and Internal Lanes"
+    contact:
+      person: "Electric Supervisor – Shri Pawar"
+      phone: "+91 98760 44444"
+    summary: "LED street lights installed across village for night safety."
+    details:
+      total_lights: 120
+      type: "LED"
+      maintenance: "Monthly inspection"
+
+  # ---------------- SCHOOLS ----------------
+  - name: "Zilla Parishad Primary School"
+    type: "School"
+    address: "Main Road, Village XYZ"
+    contact:
+      person: "Headmaster – Shri Deshmukh"
+      phone: "+91 98760 55555"
+    summary: "Government primary school providing education from Std. 1 to Std. 7."
+    details:
+      students: 210
+      medium: "Marathi"
+      facilities: ["Mid-Day Meal", "Playground", "Library"]
+
+  # ---------------- ANGANWADI ----------------
+  - name: "Anganwadi Kendra – Ward No. 3"
+    type: "Anganwadi"
+    address: "Near Temple Area, Ward No. 3"
+    contact:
+      person: "Anganwadi Sevika – Smt. Shinde"
+      phone: "+91 98760 66666"
+    summary: "Child nutrition, pre-school education, and maternal health support."
+    details:
+      beneficiaries: "Children (0–6 years), Pregnant Women"
+      services: ["Nutrition", "Vaccination Support", "Pre-school"]
+
+  # ---------------- AAROGYA KENDRA ----------------
+  - name: "Primary Health Center (Aarogya Kendra)"
+    type: "Health Center"
+    address: "Near Gram Panchayat Office"
+    contact:
+      person: "Medical Officer – Dr. Kulkarni"
+      phone: "+91 98760 77777"
+    summary: "Basic healthcare services including OPD, maternal care, and emergency support."
+    details:
+      timings: "9:00 AM – 5:00 PM"
+      services: ["OPD", "Maternal Care", "First Aid"]
+
+  # ---------------- LIBRARY ----------------
+  - name: "Village Public Library"
+    type: "Library"
+    address: "First Floor, Community Hall"
+    contact:
+      person: "Library In-charge – Shri Joshi"
+      phone: "+91 98760 88888"
+    summary: "Public library for students and citizens with books and newspapers."
+    details:
+      books: 1500
+      newspapers: ["Lokmat", "Sakal", "Indian Express"]
+      timing: "4:00 PM – 8:00 PM"
+
+  # ---------------- PLAYGROUND ----------------
+  - name: "Village Playground & Sports Ground"
+    type: "Playground"
+    address: "Near High School, Village XYZ"
+    contact:
+      person: "Sports Coordinator – Shri Gaikwad"
+      phone: "+91 98760 99999"
+    summary: "Large playground for cricket, kabaddi, and school sports activities."
+    details:
+      sports: ["Cricket", "Kabaddi", "Volleyball"]
+      area: "2 Acres"
+
+  # ---------------- SELF HELP GROUPS ----------------
+  - name: "Women Self Help Group Center"
+    type: "Self Help Center"
+    address: "Community Hall, Ward No. 4"
+    contact:
+      person: "SHG Leader – Smt. Patil"
+      phone: "+91 98761 00000"
+    summary: "Empowers women through savings, skill training, and small-scale businesses."
+    details:
+      groups: 12
+      activities: ["Savings", "Tailoring", "Food Processing"]
+
+  # ---------------- BUS STOP ----------------
+  - name: "Village Bus Stop"
+    type: "Transport"
+    address: "Main Road Junction, Village XYZ"
+    contact:
+      person: "ST Depot – Taluka Office"
+      phone: "+91 98761 11111"
+    summary: "Public transport connectivity to nearby towns and taluka headquarters."
+    details:
+      routes: ["Village–Taluka", "Village–District"]
+      frequency: "Every 30–45 minutes"
+
+  # ---------------- HEALTH & VACCINATION CAMPS ----------------
+  - name: "Health & Vaccination Camp"
+    type: "Health Camp"
+    address: "Zilla Parishad School Campus"
+    contact:
+      person: "ANM – Smt. Pawar"
+      phone: "+91 98761 22222"
+    summary: "Periodic health check-ups and vaccination drives for villagers."
+    details:
+      frequency: "Monthly"
+      vaccines: ["BCG", "Polio", "COVID-19"]
+      beneficiaries: "Children & Senior Citizens"
+electric_water_supply:
+  title: "Water & Electricity Supply Schedule"
+  supply:
+    water:
+      title: "Water Supply"
+      description: "Daily drinking water supply timings for the village"
+      schedule:
+        - day: "Monday"
+          time: "6:00 AM – 8:00 AM"
+          area: "All Wards"
+
+        - day: "Tuesday"
+          time: "6:00 AM – 8:00 AM"
+          area: "All Wards"
+
+        - day: "Wednesday"
+          time: "6:00 AM – 8:00 AM"
+          area: "All Wards"
+
+        - day: "Thursday"
+          time: "6:00 AM – 8:00 AM"
+          area: "All Wards"
+
+        - day: "Friday"
+          time: "6:00 AM – 8:00 AM"
+          area: "All Wards"
+
+    electricity:
+      title: "Electricity Supply"
+      heading: "Outage Details"
+      description: "Planned electricity maintenance and outage schedule"
+      schedule:
+        - date: "2025-01-10"
+          time: "10:00 AM – 2:00 PM"
+          area: "Ward No. 1 & 2"
+          note: "Planned maintenance shutdown"
+
+        - date: "2025-01-18"
+          time: "11:00 AM – 3:00 PM"
+          area: "Ward No. 4"
+          note: "Transformer servicing"
+
+        - date: "2025-01-26"
+          time: "9:00 AM – 12:00 PM"
+          area: "Entire Village"
+          note: "Power line inspection"

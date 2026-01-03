@@ -1,0 +1,50 @@
+title: "साइट नकाशा"
+
+sections:
+  - name: "मुखपृष्ठ"
+    path: "/"
+
+  - name: "गावाबद्दल"
+    path: "/about"
+
+  - name: "घोषणा / सूचना"
+    path: "/announcements"
+
+  - name: "संपर्क"
+    path: "/contacts"
+
+  - name: "संस्कृती"
+    path: "/culture"
+
+  - name: "डॅशबोर्ड"
+    path: "/dashboard"
+
+  - name: "शिक्षण"
+    path: "/education"
+
+  - name: "रोजगार"
+    path: "/employment"
+
+  - name: "पर्यावरण"
+    path: "/environment"
+
+  - name: "आर्थिक माहिती"
+    path: "/finance"
+
+  - name: "फॉर्म्स"
+    path: "/forms"
+
+  - name: "गॅलरी"
+    path: "/gallery"
+
+  - name: "तक्रार निवारण"
+    path: "/grievance"
+
+  - name: "पायाभूत सुविधा"
+    path: "/infra-facilities"
+
+  - name: "प्रकल्प"
+    path: "/projects"
+
+  - name: "योजना"
+    path: "/schemes"

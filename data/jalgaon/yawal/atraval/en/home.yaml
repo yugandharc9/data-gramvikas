@@ -1,0 +1,108 @@
+hero:
+  title: "Welcome to Grampanchayat"
+  subtitle: "Clean village"
+  button1:
+    name: "More info"
+    link: "/about"
+  button2:
+    name: "Contact Us"
+    link: "/contacts"
+  images:
+    - "/home/v1.jpeg"
+    - "/home/v2.jpeg"
+sections:
+  - title: "water"
+    description: "clean water"
+welcome_video:
+  link: "https://www.youtube.com/embed/c4MLUkZNGnY?si=6oNuU_cOF-SNcky5"
+pachayat_sandesh: 
+  - "Water supply maintenance on Friday"
+  - "Gram Sabha meeting at 5 PM"
+  - "New government schemes launched" 
+mahiti:
+  - title: Population
+    icon: "Users"
+    value: 15000
+  - title: Homes
+    icon: "Home"
+    value: 240
+  - title: "Literacy Rate"
+    icon: "GraduationCap"
+    value: 80
+    text: "%"
+  - title: Wards
+    icon: "Map"
+    value: 7
+  - title: Total Area
+    icon: "MapPinned"
+    value: 240
+    text: " sq mtr"
+  - title: Water Sources
+    icon: "GlassWater"
+    value: 2
+    text: "River | Canal"
+baatmi:
+  defaultTab: latest
+  tabs:
+    - id: latest
+      label: Latest
+      items:
+        - title: Village Road Repair Completed
+          date: 23 Dec 2025
+
+        - title: Water Supply Timings Updated
+          date: 22 Dec 2025
+
+    - id: alerts
+      label: Alerts
+      items:
+        - title: Power Cut Tomorrow 10am–2pm
+          date: 24 Dec 2025
+          alert: true
+
+    - id: government
+      label: Government
+      items:
+        - title: New Ration Card Guidelines
+          date: Circular No. 128
+weather:
+  village_name: ""
+  updated_at: "Today morning 8:30"
+  condition:
+    text: "Partly Cloudy"
+    icon: "cloud-sun"
+  temperature:
+    current: 29
+    feels_like: 31
+  humidity: 62
+  wind:
+    speed: 12
+    unit: "km/h"
+  rain_probability: 20
+leadership:
+  title: "Our leadership"
+  members:
+    - name: "Shri. Devendra Fadnavis"
+      role: "Hon'ble Chief Minister"
+      photo: "/leaders/fadnavis.jpg"
+
+    - name: "Shri. Eknath Shinde"
+      role: "Hon'ble Deputy Chief Minister"
+      photo: "/leaders/shinde.jpg"
+
+    - name: "Shri. Ajit Pawar"
+      role: "Hon'ble Deputy Chief Minister"
+      photo: "/leaders/pawar.jpg"
+
+    - name: "Shri. Jayakumar Gore"
+      role: "Hon'ble Minister, Rural Development & Panchayat Raj"
+      photo: "/leaders/gore.jpg"
+
+    - name: "Shri. Yogesh Kadam"
+      role: "Hon'ble Minister of State, Rural Development & Panchayat Raj"
+      photo: "/leaders/kadam.jpg"
+
+    - name: "Shri. Eknath Dawale"
+      role: "Principal Secretary, Rural Development & Panchayat Raj"
+      photo: "/leaders/dawale.jpg"
+

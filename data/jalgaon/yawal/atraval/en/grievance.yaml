@@ -1,0 +1,61 @@
+grievance:
+  title: "Grievance Redressal & Feedback"
+
+  complaint_form:
+    title: "Online Complaint Registration"
+    fields:
+      - key: "name"
+        label: "Name"
+        type: "text"
+      - key: "mobile"
+        label: "Mobile Number"
+        type: "tel"
+      # - key: "category"
+      #   label: "Complaint Category"
+      #   type: "select"
+      #   options:
+      #     - "Water Supply"
+      #     - "Sanitation"
+      #     - "Roads"
+      #     - "Electricity"
+      #     - "Others"
+      - key: "description"
+        label: "Complaint Details"
+        type: "textarea"
+    submit_label: "Submit Complaint"
+
+  tracking:
+    title: "Track Complaint Status"
+    placeholder: "Enter Complaint Number"
+    button: "Check Status"
+
+  escalation:
+    title: "Escalation Matrix"
+    levels:
+      - level: "Level 1"
+        officer: "Gram Sevak"
+        time: "3 Days"
+      - level: "Level 2"
+        officer: "Sarpanch"
+        time: "7 Days"
+      - level: "Level 3"
+        officer: "BDO / Panchayat Samiti"
+        time: "15 Days"
+
+  feedback_box:
+    title: "Feedback / Suggestions"
+    placeholder: "Write your feedback here"
+    submit_label: "Submit"
+
+  support:
+    title: "Immediate Support"
+    toll_free: "1800-123-456"
+    whatsapp: "+91 90000 00000"
+
+  monthly_report:
+    title: "Monthly Complaint Report"
+    total: 120
+    resolved: 92
+    pending: 28
+    resolved_title: "Resolved Complaints"
+    done_resolved_title: "Complaints Resolved"

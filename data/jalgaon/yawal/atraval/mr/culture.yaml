@@ -1,0 +1,221 @@
+mandir_sthal:
+  mandirs:
+    title: "मंदिरे"
+    items:
+      - name: "हनुमान मंदिर"
+        deity: "श्री हनुमान"
+        description: "प्रत्येक मंगळवारी व हनुमान जयंतीला भाविक मोठ्या संख्येने येथे एकत्र येतात."
+        established: "1952"
+        festivals:
+          - "हनुमान जयंती"
+          - "राम नवमी"
+        photos:
+          - "/images/mandir/hanuman1.jpg"
+          - "/images/mandir/hanuman2.jpg"
+
+      - name: "महादेव मंदिर"
+        deity: "भगवान शिव"
+        description: "नदीकाठी वसलेले शांत मंदिर, महाशिवरात्रीसाठी प्रसिद्ध."
+        established: "1890"
+
+  sthal:
+    title: "स्थळे (सांस्कृतिक व ऐतिहासिक)"
+    items:
+      - name: "ग्रामदेवीचे स्थान"
+        type: "पवित्र स्थळ"
+        description: "वार्षिक जत्रा भरवली जाणारे गावदेवीचे स्थान."
+        significance: "गावाच्या परंपरा व श्रद्धेचे केंद्र."
+        photos:
+          - "/images/sthal/devsthal.jpg"
+
+      - name: "जुना वडाचा पार"
+        type: "ऐतिहासिक स्थळ"
+        description: "ज्येष्ठ नागरिकांच्या सभा व चर्चेसाठी वापरले जाणारे ठिकाण."
+        significance: "गावाच्या एकतेचे प्रतीक."
+
+culture_practice:
+  san:
+    title: "सण"
+    items:
+      - name: "गणेश उत्सव"
+        description: "भजन, आरती व सामूहिक कार्यक्रमांसह साजरा होणारा उत्सव."
+        month: "भाद्रपद"
+        activities:
+          - "आरती"
+          - "भजन"
+          - "विसर्जन"
+        photos:
+          - "/images/culture/san/ganesh1.jpg"
+          - "/images/culture/san/ganesh2.jpg"
+
+      - name: "दिवाळी"
+        description: "दिव्यांच्या रोषणाईसह साजरा होणारा सण."
+        month: "कार्तिक"
+        activities:
+          - "लक्ष्मीपूजन"
+          - "आकाशकंदील"
+
+  lokkala:
+    title: "लोककला"
+    items:
+      - name: "तमाशा"
+        description: "परंपरागत मराठी लोकनाट्य."
+        occasions:
+          - "ग्रामजत्रा"
+        photos:
+          - "/images/culture/lokkala/tamasha.jpg"
+
+  parampara:
+    title: "परंपरा"
+    items:
+      - name: "जत्रा परंपरा"
+        description: "पिढ्यानपिढ्या चालत आलेली ग्रामदेवतेची यात्रा."
+        significance: "गावातील ऐक्य व श्रद्धेचे प्रतीक."
+
+  sangeet:
+    title: "संगीत"
+    items:
+      - name: "भजन"
+        description: "मंदिरात व सणांमध्ये गायले जाणारे भक्तिगीत."
+        instruments:
+          - "ताल"
+          - "हार्मोनियम"
+        photos:
+          - "/images/culture/sangeet/bhajan.jpg"
+
+homestays:
+  title: "गावातील होमस्टे"
+  description: "परंपरागत जीवनशैली, स्थानिक अन्न व पाहुणचाराचा अनुभव."
+  items:
+    - name: "मल्हार होमस्टे"
+      owner: "पाटील कुटुंब"
+      description: "मातीच्या घरात शांत वातावरणात निवास."
+      rooms: 3
+      facilities:
+        - "घरगुती जेवण"
+        - "गरम पाणी"
+        - "शेती दर्शन"
+      contact: "+91 9000000000"
+      photos:
+        - "/images/homestay/malhar1.jpg"
+        - "/images/homestay/malhar2.jpg"
+
+    - name: "सह्याद्री होमस्टे"
+      owner: "देशमुख कुटुंब"
+      description: "डोंगराळ परिसरात निसर्गरम्य वास्तव्य."
+      rooms: 2
+      facilities:
+        - "शाकाहारी जेवण"
+        - "वाहन पार्किंग"
+      contact: "+91 9111111111"
+
+gauravshali_vyakti:
+  title: "गौरवशाली व्यक्ती"
+  description: "गावाला अभिमान वाटावा अशा थोर व्यक्ती."
+
+  items:
+    - name: "स्व. गोविंदराव पाटील"
+      role: "स्वातंत्र्यसैनिक"
+      period: "१९४२ – चलेजाव चळवळ"
+      description: "स्वातंत्र्यलढ्यात सक्रिय सहभाग व जनजागृती."
+      contributions:
+        - "चलेजाव चळवळ"
+        - "भूमिगत कार्य"
+      photos:
+        - "/images/people/govindrao1.jpg"
+
+    - name: "सौ. शांताबाई देशमुख"
+      role: "समाजसेविका"
+      period: "१९७० – २०००"
+      description: "महिला सक्षमीकरण व शिक्षणासाठी योगदान."
+      contributions:
+        - "महिला मंडळ"
+        - "प्रौढ शिक्षण"
+
+    - name: "श्री. वसंतराव कुलकर्णी"
+      role: "शिक्षक"
+      period: "१९६५ – १९९५"
+      description: "अनेक पिढ्यांना शिक्षण देणारे आदर्श शिक्षक."
+      contributions:
+        - "शाळा विकास"
+        - "शिष्यवृत्ती मार्गदर्शन"
+      photos:
+        - "/images/people/teacher1.jpg"
+        - "/images/people/teacher2.jpg"
+
+gaavcha_awaj:
+  title: "गावचा आवाज"
+  description: "गावकऱ्यांच्या आठवणी, अनुभव आणि जीवनकथा."
+
+  items:
+    - name: "श्री. रघुनाथ पाटील"
+      age: 72
+      role: "ज्येष्ठ शेतकरी"
+      description: "पूर्वीच्या शेतीच्या आठवणी आणि गावातील एकतेचे अनुभव."
+      video_link: "https://www.youtube.com/embed/G8bQ8d1ePNw?si=7Zx8ZaYMGlKggtr9"
+      thumbnail: "/images/awaj/rgpatil.jpg"
+
+    - name: "वसंत देशमुख"
+      age: 45
+      role: "शेतकरी"
+      description: "सण-उत्सवांमुळे गावातील एकजूट कशी वाढते."
+      video_link: "https://www.youtube.com/embed/kN3YXnzXUlk?si=1rMTedSFJvv76XaX"
+
+    - name: "श्री. अनिल जाधव"
+      age: 30
+      role: "तरुण"
+      description: "आजच्या युवकांच्या संधी व आव्हाने."
+      video_link: "https://www.youtube.com/embed/xcJ0TyEquI4?si=hB_czAHWnP9ZSZwZ"
+
+fpo_gats:
+  title: "एफपीओ गट"
+  description: "शेतकऱ्यांचे उत्पादन, विपणन व उत्पन्न वाढीसाठीचे गट."
+
+  items:
+    - name: "कृषी विकास एफपीओ"
+      type: "कृषी उत्पादन"
+      members: 120
+      formed_year: 2018
+      description: "एकत्रित शेती, सेंद्रिय उत्पादन व थेट विक्री."
+      activities:
+        - "सेंद्रिय शेती"
+        - "थेट विक्री"
+        - "प्रशिक्षण"
+      contact: "+91 9876543210"
+      video_link: "https://www.youtube.com/embed/47Oxlmz-yiw"
+      thumbnail: "/images/fpo/krushi_vikas.jpg"
+
+    - name: "महिला शेतकरी एफपीओ"
+      type: "महिला गट"
+      members: 45
+      formed_year: 2020
+      description: "महिला शेतकऱ्यांसाठी मूल्यवर्धित उत्पादन."
+      activities:
+        - "अन्नप्रक्रिया"
+        - "पॅकेजिंग"
+      contact: "+91 9123456789"
+old_gallery:
+  title: "जुनी छायाचित्रे (Old Photo Gallery)"
+  description: "गावाच्या भूतकाळातील आठवणी जपणारी दुर्मिळ छायाचित्रे."
+
+  items:
+    - title: "गावची जत्रा – १९६५"
+      year: 1965
+      description: "गावातील मंदिराजवळ भरवली जाणारी वार्षिक जत्रा."
+      photos:
+        - "/images/old/jatra_1965_1.jpg"
+        - "/images/old/jatra_1965_2.jpg"
+
+    - title: "जुनी शाळा"
+      year: 1958
+      description: "गावातील पहिली शाळेची इमारत."
+      photos:
+        - "/images/old/school_1958.jpg"
+
+    - title: "स्वातंत्र्य चळवळ सभा"
+      year: 1942
+      description: "भारत छोडो आंदोलन काळातील गावकऱ्यांची सभा."
+      photos:
+        - "/images/old/freedom_1.jpg"
+        - "/images/old/freedom_2.jpg"
+

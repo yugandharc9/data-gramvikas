@@ -1,0 +1,219 @@
+mahinyacha_vidyarthi:
+  title: "Student of the Month"
+  description: "Students who have shown excellence in academics, sports, or social activities."
+
+  items:
+    - name: "Rahul Patil"
+      photo: "/images/students/rahul_patil.jpg"
+      achievement: "Secured 1st rank in district-level science exam."
+      institution: "Zilla Parishad High School"
+      month: "January 2025"
+
+    - name: "Sneha Jadhav"
+      photo: "/images/students/sneha_jadhav.jpg"
+      achievement: "Represented school in state-level kabaddi tournament."
+      institution: "Village Junior College"
+      month: "February 2025"
+
+
+student_programs:
+  title: "Student Programs"
+
+  tabs:
+    - key: "shishyavrutti"
+      label: "Scholarships"
+      type: "scholarship"
+
+    - key: "krida"
+      label: "Sports"
+      type: "sports"
+
+    - key: "nss_upakram"
+      label: "NSS Activities"
+      type: "nss"
+
+  shishyavrutti:
+    items:
+      - name: "Post Matric Scholarship"
+        eligibility: "SC / ST / OBC"
+        benefit: "₹25,000"
+        authority: "Government of Maharashtra"
+        photos:
+          - "/images/students/scholarship/postmatric.jpg"
+
+  krida:
+    items:
+      - name: "Kabaddi Team"
+        level: "District"
+        achievement: "Runner-up"
+        year: "2024"
+        photos:
+          - "/images/students/sports/kabaddi_1.jpg"
+
+  nss_upakram:
+    items:
+      - name: "Village Cleanliness Drive"
+        year: "2024"
+        description: "Village cleanliness activity"
+        photos:
+          - "/images/students/nss/cleanliness_1.jpg"
+
+
+shala_mahiti_ani_vidyarthi_kamgiri:
+  title: "School Information & Student Performance"
+  description: "Information about village schools and student achievements."
+
+  shala_mahiti:
+    title: "School Information"
+    items:
+      - name: "Zilla Parishad Primary School"
+        type: "Primary School"
+        established: "1956"
+        students: 230
+        teachers: 8
+        description: "Government primary school serving village children."
+        photos:
+          - "/images/schools/zp_primary_1.jpg"
+          - "/images/schools/zp_primary_2.jpg"
+
+      - name: "Village High School"
+        type: "Secondary School"
+        established: "1982"
+        students: 180
+        teachers: 12
+        description: "Secondary education with science and arts streams."
+        photos:
+          - "/images/schools/highschool_1.jpg"
+
+  vidyarthi_kamgiri:
+    title: "Student Achievements"
+    items:
+      - student_name: "Rahul Patil"
+        achievement: "1st Rank in District Science Exam"
+        year: "2024"
+        institution: "Village High School"
+        photos:
+          - "/images/students/achievements/rahul_1.jpg"
+
+      - student_name: "Sneha Jadhav"
+        achievement: "State-level Kabaddi Participant"
+        year: "2023"
+        institution: "Village Junior College"
+        photos:
+          - "/images/students/achievements/sneha_1.jpg"
+          - "/images/students/achievements/sneha_2.jpg"
+
+
+career_margadarshan:
+  title: "Career Guidance"
+  description: "Guidance to help students and youth choose the right career path."
+
+  items:
+    - title: "Career Guidance Seminar"
+      target_group: "10th & 12th Students"
+      conducted_by: "Education Department"
+      description: "Guidance on streams, courses, and future career options."
+      date: "March 2025"
+      photos:
+        - "/images/career/seminar_1.jpg"
+        - "/images/career/seminar_2.jpg"
+
+    - title: "Competitive Exam Guidance"
+      target_group: "Graduates"
+      conducted_by: "Career Counselor"
+      description: "Information about UPSC, MPSC, Banking, and SSC exams."
+      date: "February 2025"
+      photos:
+        - "/images/career/exam_guidance_1.jpg"
+
+    - title: "Skill & Vocational Counseling"
+      target_group: "School Dropouts & Youth"
+      conducted_by: "Skill Development Office"
+      description: "Guidance on vocational courses and skill-based careers."
+      date: "January 2025"
+
+
+youth_speaks:
+  title: "Youth Speaks"
+  subtitle: "Voices, Ideas & Creativity of Young Minds"
+
+  tabs:
+    - key: blogs
+      label: "Blogs"
+      items:
+        - title: "My Village, My Pride"
+          author: "Rohan Patil"
+          summary: "How villages can become self-sufficient."
+          image: "/images/blogs/village.jpg"
+          link: "/blogs/my-village"
+
+        - title: "Digital India in Rural Areas"
+          author: "Sneha Jadhav"
+          summary: "Technology transforming rural education."
+          image: "/images/blogs/digital.jpg"
+          link: "/blogs/digital-india"
+
+    - key: videos
+      label: "Videos"
+      items:
+        - title: "Water Conservation Talk"
+          speaker: "Amit Kale"
+          thumbnail: "/images/videos/water.jpg"
+          youtubeId: "dQw4w9WgXcQ"
+
+        - title: "Women Empowerment Speech"
+          speaker: "Pooja Patil"
+          thumbnail: "/images/videos/women.jpg"
+          youtubeId: "9bZkp7q19f0"
+
+    - key: reels
+      label: "Reels"
+      items:
+        - title: "Clean Village Drive"
+          thumbnail: "/images/reels/clean.jpg"
+          link: "https://instagram.com/reel/xyz"
+
+        - title: "Tree Plantation"
+          thumbnail: "/images/reels/tree.jpg"
+          link: "https://instagram.com/reel/abc"
+
+
+sthanik_yashogatha:
+  title: "Local Entrepreneurs & Farmers Success Stories"
+  description: "Inspiring success stories of progressive farmers and local entrepreneurs"
+
+  items:
+    - name: "Sanjay Patil"
+      role: "Progressive Farmer"
+      village: "Ramnagar"
+      photo: "/images/yashogatha/sanjay-patil.jpg"
+      achievement: >
+        Increased agricultural output threefold
+        through drip irrigation and organic farming.
+      highlights:
+        - "Drip irrigation"
+        - "Organic farming"
+        - "State-level award"
+
+    - name: "Kavita Deshmukh"
+      role: "Local Entrepreneur"
+      village: "Shivpur"
+      photo: "/images/yashogatha/kavita-deshmukh.jpg"
+      achievement: >
+        Successfully built a spice manufacturing business
+        through women self-help groups.
+      highlights:
+        - "Women Self-Help Groups"
+        - "Self-employment"
+        - "Employment to 10+ women"
+
+    - name: "Ramesh Shinde"
+      role: "Dairy Entrepreneur"
+      village: "Nandgaon"
+      photo: ""
+      achievement: >
+        Significant increase in milk production through
+        modern cattle management practices.
+      highlights:
+        - "Dairy Farming"
+        - "Modern Cattle Shed"

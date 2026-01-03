@@ -1,0 +1,58 @@
+title: "Village Annual Budget Dissection"
+
+total_budget: 5000000  # in INR
+
+currency: "INR"
+
+categories:
+  - name: "Water Supply"
+    amount: 1200000
+
+  - name: "Roads & Infrastructure"
+    amount: 1500000
+
+  - name: "Health & Sanitation"
+    amount: 700000
+
+  - name: "Education"
+    amount: 800000
+
+  - name: "Electricity & Street Lights"
+    amount: 500000
+
+  - name: "Other Expenses"
+    amount: 300000
+anudan_dengi:    
+  title: "Village Income Sources"
+  income:
+    anudan:
+      title: "Anudan (Grants)"
+      description: "Funds received from Government and Zilla Parishad schemes"
+      sources:
+        - name: "15th Finance Commission Grant"
+          amount: 1500000
+          department: "Central Government"
+
+        - name: "Zilla Parishad Development Grant"
+          amount: 1000000
+          department: "Zilla Parishad"
+
+        - name: "State Government Special Grant"
+          amount: 750000
+          department: "State Government"
+
+    dengi:
+      title: "Dengi (Local Revenue)"
+      description: "Income generated from village-level taxes and fees"
+      sources:
+        - name: "House Tax"
+          amount: 600000
+
+        - name: "Water Tax"
+          amount: 350000
+
+        - name: "Shop License Fees"
+          amount: 200000
+
+        - name: "Market Fees"
+          amount: 150000

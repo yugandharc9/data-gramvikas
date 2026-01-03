@@ -1,0 +1,53 @@
+contact_collaboration:
+  title: "संपर्क व सहकार्य"
+
+  office:
+    name: "ग्रामपंचायत कार्यालय"
+    address: "गावाचे नाव, तालुका, जिल्हा – 412XXX"
+    phone: "+91 98765 43210"
+    email: "grampanchayat@example.com"
+    working_hours: "सोमवार ते शुक्रवार | सकाळी १० ते सायंकाळी ५"
+
+  map:
+    embed_url: "https://www.google.com/maps/embed?pb=YOUR_GOOGLE_MAP_EMBED"
+
+  feedback:
+    title: "अभिप्राय / सूचना"
+    fields:
+      - key: "name"
+        label: "नाव"
+        type: "text"
+      - key: "mobile"
+        label: "मोबाईल नंबर"
+        type: "tel"
+      - key: "message"
+        label: "आपला अभिप्राय"
+        type: "textarea"
+    submit_label: "अभिप्राय पाठवा"
+
+  partners:
+    title: "भागीदार संस्था"
+
+    ngos:
+      - name: "Green Bharat Foundation"
+        area: "पर्यावरण व वृक्षारोपण"
+      - name: "Shikshan Vikas NGO"
+        area: "शिक्षण व युवक विकास"
+
+    csr:
+      - name: "ABC Industries"
+        area: "CSR – पाणी व स्वच्छता"
+      - name: "XYZ Pvt Ltd"
+        area: "CSR – डिजिटल शिक्षण"
+
+    government:
+      - name: "जिल्हा परिषद"
+        area: "ग्रामीण विकास"
+      - name: "कृषी विभाग"
+        area: "शेतकरी योजना"
+
+  volunteer:
+    title: "स्वयंसेवक बना"
+    description: "गावाच्या विकासासाठी आपले योगदान द्या."
+    button_text: "स्वयंसेवक म्हणून नोंदणी करा"
+    link: "/volunteer"

@@ -1,0 +1,217 @@
+mandir_sthal:
+  mandirs:
+    title: "Mandir (Temples)"
+    items:
+      - name: "Hanuman Mandir"
+        deity: "Shri Hanuman"
+        description: "Ancient temple where villagers gather every Tuesday and on Hanuman Jayanti."
+        established: "1952"
+        festivals:
+          - "Hanuman Jayanti"
+          - "Ram Navami"
+        photos:
+          - "/images/mandir/hanuman1.jpg"
+          - "/images/mandir/hanuman2.jpg"
+
+      - name: "Mahadev Mandir"
+        deity: "Lord Shiva"
+        description: "Peaceful temple near the river, known for Mahashivratri celebrations."
+        established: "1890"
+
+  sthal:
+    title: "Sthal (Cultural & Historic Places)"
+    items:
+      - name: "Gram Devichi Sthal"
+        type: "Sacred Place"
+        description: "Village deity place where annual Jatra is organized."
+        significance: "Center of village traditions and rituals."
+        photos:
+          - "/images/sthal/devsthal.jpg"
+
+      - name: "Old Banyan Tree Chavdi"
+        type: "Historic Place"
+        description: "Traditional meeting place used by elders for village decisions."
+        significance: "Symbol of unity and local governance."
+culture_practice:
+  san:
+    title: "San (Festivals)"
+    items:
+      - name: "Ganesh Utsav"
+        description: "Village celebrates Ganesh Utsav with devotion, bhajans, and community meals."
+        month: "Bhadrapada"
+        activities:
+          - "Aarti"
+          - "Bhajan"
+          - "Visarjan"
+        photos:
+          - "/images/culture/san/ganesh1.jpg"
+          - "/images/culture/san/ganesh2.jpg"
+
+      - name: "Diwali"
+        description: "Festival of lights celebrated with traditional lamps."
+        month: "Kartika"
+        activities:
+          - "Lakshmi Pujan"
+          - "Akash Kandil"
+
+  lokkala:
+    title: "Lokkala (Folk Arts)"
+    items:
+      - name: "Tamasha"
+        description: "Traditional Maharashtrian folk theatre."
+        occasions:
+          - "Village Jatra"
+        photos:
+          - "/images/culture/lokkala/tamasha.jpg"
+
+  parampara:
+    title: "Parampara (Traditions)"
+    items:
+      - name: "Jatra Parampara"
+        description: "Annual village deity procession followed for generations."
+        significance: "Village unity and faith."
+
+  sangeet:
+    title: "Sangeet (Music)"
+    items:
+      - name: "Bhajan"
+        description: "Devotional songs sung in mandir and festivals."
+        instruments:
+          - "Taal"
+          - "Harmonium"
+        photos:
+          - "/images/culture/sangeet/bhajan.jpg"
+homestays:
+  title: "Village Homestays"
+  description: "Experience traditional village life, food, and hospitality."
+  items:
+    - name: "Malhar Homestay"
+      owner: "Patil Family"
+      description: "Traditional mud house with local food and peaceful surroundings."
+      rooms: 3
+      facilities:
+        - "Home-cooked food"
+        - "Hot water"
+        - "Farm visit"
+      contact: "+91 9000000000"
+      photos:
+        - "/images/homestay/malhar1.jpg"
+        - "/images/homestay/malhar2.jpg"
+
+    - name: "Sahyadri Homestay"
+      owner: "Deshmukh Family"
+      description: "Stay near farms with beautiful hill views."
+      rooms: 2
+      facilities:
+        - "Veg meals"
+        - "Parking"
+      contact: "+91 9111111111"
+gauravshali_vyakti:
+  title: "Pride of Our Village"
+  description: "People who brought pride, freedom, and recognition to our village."
+
+  items:
+    - name: "Late Shri Govindrao Patil"
+      role: "Freedom Fighter"
+      period: "1942 – Quit India Movement"
+      description: "Actively participated in the freedom struggle and inspired villagers to join the movement."
+      contributions:
+        - "Quit India Movement"
+        - "Underground activism"
+      photos:
+        - "/images/people/govindrao1.jpg"
+
+    - name: "Smt. Shantabai Deshmukh"
+      role: "Social Worker"
+      period: "1970 – 2000"
+      description: "Worked for women empowerment and education in the village."
+      contributions:
+        - "Mahila Mandal"
+        - "Adult literacy programs"
+
+    - name: "Shri Vasantrao Kulkarni"
+      role: "Teacher"
+      period: "1965 – 1995"
+      description: "Dedicated teacher who educated generations of village children."
+      contributions:
+        - "Village school development"
+        - "Scholarship guidance"
+      photos:
+        - "/images/people/teacher1.jpg"
+        - "/images/people/teacher2.jpg"
+
+gaavcha_awaj:
+  title: "Voices of Our Village"
+  description: "Real stories, memories, and experiences shared by our villagers."
+
+  items:
+    - name: "Shri Raghunath Patil"
+      age: 72
+      role: "Senior Farmer"
+      description: "Memories of farming life and village unity in old times."
+      video_link: "https://www.youtube.com/embed/G8bQ8d1ePNw?si=7Zx8ZaYMGlKggtr9"
+      thumbnail: "/images/awaj/rgpatil1.jpg"
+
+    - name: "Vasant Deshmukh"
+      age: 45
+      role: "Farmer"
+      description: "How festivals bring villagers together every year."
+      video_link: "https://www.youtube.com/embed/kN3YXnzXUlk?si=1rMTedSFJvv76XaX"
+
+    - name: "Shri Anil Jadhav"
+      age: 30
+      role: "Youth"
+      description: "Opportunities and challenges for village youth today."
+      video_link: "https://www.youtube.com/embed/xcJ0TyEquI4?si=hB_czAHWnP9ZSZwZ"
+      thumbnail: "/images/awaj/youth.jpg"
+fpo_gats:
+  title: "FPO Gats (Farmer Producer Groups)"
+  description: "Collective farmer groups working towards better production, marketing, and income."
+
+  items:
+    - name: "Krushi Vikas FPO Gat"
+      type: "Agriculture Produce"
+      members: 120
+      formed_year: 2018
+      description: "Group focuses on collective farming, organic produce, and direct market access."
+      activities:
+        - "Organic farming"
+        - "Bulk selling"
+        - "Training programs"
+      contact: "+91 9876543210"
+      video_link: "https://www.youtube.com/embed/8IGiG074GZg?si=dY6AnbOIyvxAJPbo"
+      thumbnail: "/images/fpo/krushi_vikas.jpg"
+
+    - name: "Mahila Shetkari FPO Gat"
+      type: "Women-led Group"
+      members: 45
+      formed_year: 2020
+      description: "Women farmers working together for value-added agricultural products."
+      activities:
+        - "Food processing"
+        - "Packaging"
+      contact: "+91 9123456789"
+old_gallery:
+  title: "Old Photo Gallery"
+  description: "Rare photographs preserving memories of our village’s past."
+
+  items:
+    - title: "Village Jatra – 1965"
+      year: 1965
+      description: "Annual Jatra near the village temple."
+      photos:
+        - "/images/old/jatra_1965_1.jpg"
+        - "/images/old/jatra_1965_2.jpg"
+
+    - title: "Old Village School"
+      year: 1958
+      description: "First school building of the village."
+      photos:
+        - "/images/old/school_1958.jpg"
+
+    - title: "Freedom Movement Gathering"
+      year: 1942
+      description: "Villagers gathering during Quit India Movement."
+      photos:
+        - "/images/old/freedom_1.jpg"
+        - "/images/old/freedom_2.jpg"

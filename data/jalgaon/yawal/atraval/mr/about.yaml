@@ -1,0 +1,102 @@
+dhey:
+  title: "आमचे ध्येय"
+  description: "सामूहिक प्रयत्नांतून एक सशक्त, स्वच्छ आणि एकत्रित गाव घडवणे."
+  points:
+    - "शिक्षण आणि जनजागृतीला प्रोत्साहन"
+    - "शेतकरी आणि स्थानिक व्यवसायांना पाठबळ"
+    - "स्वच्छता व आरोग्य सुनिश्चित करणे"
+    - "लोकसहभाग वाढवणे"
+
+mulya:
+  - name: "पारदर्शकता"
+    img: "/maha_logo.svg"
+  - name: "जबाबदारी"
+    img: "/maha_logo.svg"
+  - name: "सहभाग"
+    img: "/maha_logo.svg"
+  - name: "समता"
+    img: "/maha_logo.svg"
+  - name: "प्रामाणिकपणा"
+    img: "/maha_logo.svg"
+  - name: "शाश्वतता"
+    img: "/maha_logo.svg"
+  - name: "सामाजिक न्याय"
+    img: "/maha_logo.svg"
+  - name: "शासनातील पारदर्शकता"
+    img: "/maha_logo.svg"
+  - name: "समुदाय कल्याण"
+    img: "/maha_logo.svg"
+
+mulya_title: "नैतिक मूल्ये"
+
+itihas:
+  title: "आपल्या गावाचा इतिहास"
+  description: "गावाच्या विकासातील महत्त्वाच्या टप्प्यांचा प्रवास."
+  timeline:
+    - year: "1850"
+      title: "गावाची स्थापना"
+      description: "प्रारंभीच्या वसाहतीद्वारे गावाची स्थापना झाली."
+
+    - year: "1947"
+      title: "स्वातंत्र्य काळ"
+      description: "जमिनीचे पुनर्वाटप व सामाजिक सुधारणांचा काळ."
+
+    - year: "1990"
+      title: "पायाभूत विकास"
+      description: "शाळा, रस्ते आणि पाणीपुरवठा यांची उभारणी."
+
+    - year: "2020"
+      title: "आधुनिक विकास"
+      description: "डिजिटल सेवा व स्मार्ट ग्राम उपक्रमांची सुरुवात."
+
+organization:
+  - id: sarpanch
+    name: रमेश पाटील
+    designation: सरपंच
+    description: ग्रामपंचायतीचे प्रमुख.
+    contact:
+      phone: "+91 9876543210"
+    photo: "/org/sarpanch.jpg"
+    parentId: null
+
+  - id: secretary
+    name: सुनीता देशमुख
+    designation: सचिव
+    description: नोंदणी व प्रशासकीय कामकाज पाहणे.
+    contact:
+      email: secretary@gp.gov.in
+    photo: "/org/secretary.jpg"
+    parentId: sarpanch
+
+  - id: clerk1
+    name: महेश पवार
+    designation: लिपिक
+    description: कार्यालयीन व नागरिक सेवा सहाय्य.
+    photo: "/org/clerk1.jpg"
+    parentId: secretary
+
+  - id: clerk2
+    name: अनिता कुलकर्णी
+    designation: लिपिक
+    description: दस्तऐवजीकरण व माहिती नोंद.
+    photo: "/org/clerk2.jpg"
+    parentId: secretary
+
+important_contacts:
+  - id: police
+    name: पोलीस स्टेशन
+    designation: पोलीस निरीक्षक
+    department: कायदा व सुव्यवस्था
+    phone: "100"
+
+  - id: hospital
+    name: प्राथमिक आरोग्य केंद्र
+    designation: वैद्यकीय अधिकारी
+    department: आरोग्य
+    phone: "108"
+
+  - id: electricity
+    name: महावितरण कार्यालय
+    designation: तक्रार निवारण
+    department: वीज
+    phone: "1912"
