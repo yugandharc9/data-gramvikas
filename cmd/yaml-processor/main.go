@@ -95,7 +95,7 @@ func processFile(path string, bulk map[string][]map[string]interface{}) error {
 		return err
 	}
 
-	id := fmt.Sprintf("%s-%s-%s-%s", district, taluka, lang, village)
+	id := fmt.Sprintf("%s-%s", lang, village)
 
 	data["districtID"] = district
 	data["talukaID"] = taluka
