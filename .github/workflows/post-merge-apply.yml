@@ -3,7 +3,7 @@ name: Apply YAML Changes
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   apply:

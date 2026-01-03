@@ -2,7 +2,7 @@ name: PR YAML Validation
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   validate:
