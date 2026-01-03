@@ -1,0 +1,29 @@
+name: Apply YAML Changes
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  apply:
+    name: Apply YAML to API
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2   
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Run post-merge processor
+        env:
+          API_HOST: ${{ secrets.API_HOST }}
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+        run: |
+          go run ./cmd/yaml-processor/main.go
